@@ -34,4 +34,14 @@ export default class Youtube {
   async search(keyword) {
     return keyword ? this.#searchByKeyword(keyword) : this.#mostPopular();
   }
+
+  async channelImageURL(id) {
+    const { data } = await this.httpClient.get('/channels', {
+      params: {
+        part: 'snippet',
+        id,
+      },
+    });
+    return data.items[0].snippet.thumbnails.default.url;
+  }
 }

@@ -1,0 +1,43 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "w1bVow_3bJk6idYpaj_MYKnEtNA",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "BQlN8xTX1qd_Iowbzg2pLswl1VQ",
+      "id": "UC2YnEq5Fc5_zEO6bo0oNzCQ",
+      "snippet": {
+        "title": "melanie martinez",
+        "description": "The official YouTube channel of Melanie Martinez\n\nMelanie Martinez's creative drive and talents as a visual artist have long distinguished her from other musicians. With her debut album Cry Baby, Melanie introduced the world to her distinctly original vision with hits like “Pity Party”, “Pacify Her”, “Alphabet Boy”, “Carousel” and “Sippy Cup”. Creating unique music videos for each album track, including “Soap/Training Wheels” and “Tag, You're It/Milk and Cookies”, Melanie portrays the traumas and insecurities of the album's titular character over a bed of electro pop, alternative and hip-hop. Her latest triumph K-12, an inspired new album and feature film directed by and starring Melanie, brings together a melting pot of low-key hip-hop, soulful pop and indie-leaning electro with whimsical, surreal visuals and magical realism to stunning results.\n\nSubscribe to Melanie’s channel for all the latest official music videos, official audio, albums and more!\nhttps://melanie.lnk.to/MMsubscribe",
+        "customUrl": "@melaniemartinez",
+        "publishedAt": "2007-11-03T19:05:48Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/RkLzZoDziVbS2nWYog_bTn178STMCc2vPNgf4GV6mA78Vc7gFNRM9XO8gMZZ2Mdp4rHUYJCunw=s88-c-k-c0x00ffffff-no-nd-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/RkLzZoDziVbS2nWYog_bTn178STMCc2vPNgf4GV6mA78Vc7gFNRM9XO8gMZZ2Mdp4rHUYJCunw=s240-c-k-c0x00ffffff-no-nd-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/RkLzZoDziVbS2nWYog_bTn178STMCc2vPNgf4GV6mA78Vc7gFNRM9XO8gMZZ2Mdp4rHUYJCunw=s800-c-k-c0x00ffffff-no-nd-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "melanie martinez",
+          "description": "The official YouTube channel of Melanie Martinez\n\nMelanie Martinez's creative drive and talents as a visual artist have long distinguished her from other musicians. With her debut album Cry Baby, Melanie introduced the world to her distinctly original vision with hits like “Pity Party”, “Pacify Her”, “Alphabet Boy”, “Carousel” and “Sippy Cup”. Creating unique music videos for each album track, including “Soap/Training Wheels” and “Tag, You're It/Milk and Cookies”, Melanie portrays the traumas and insecurities of the album's titular character over a bed of electro pop, alternative and hip-hop. Her latest triumph K-12, an inspired new album and feature film directed by and starring Melanie, brings together a melting pot of low-key hip-hop, soulful pop and indie-leaning electro with whimsical, surreal visuals and magical realism to stunning results.\n\nSubscribe to Melanie’s channel for all the latest official music videos, official audio, albums and more!\nhttps://melanie.lnk.to/MMsubscribe"
+        },
+        "country": "US"
+      }
+    }
+  ]
+}
