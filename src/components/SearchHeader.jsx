@@ -15,7 +15,7 @@ export default function Search() {
   }, [keyword]);
 
   return (
-    <header className='flex p-4 border-b border-zinc-600 w-full text-xl'>
+    <header className='flex mb-4 p-4 border-b border-zinc-600 w-full text-xl'>
       <Link className='flex items-center' to='/'>
         <BsYoutube className='text-brand text-3xl' />
         <span className='ml-2 font-bold text-2xl'>Youtube</span>

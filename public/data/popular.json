@@ -1,0 +1,1606 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "fM4q0b3yQp07_6kj3NRMx11y0tM",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "aABByObrrxXbCj00FCen-cs6U9Q",
+      "id": "nUTPLucLU5I",
+      "snippet": {
+        "publishedAt": "2023-06-14T14:02:11Z",
+        "channelId": "UCe0DNp0mKMqrYVaTundyr9w",
+        "title": "An Extended Look at Armored Core 6",
+        "description": "►Learn about every single other Armored Core game: https://youtu.be/jNgY-kTPY3Q\n►Become a patron for early access, exclusive merch, and more http://www.patreon.com/vaatividya\n\nTIMESTAMPS ▼▼▼\n00:00 This is awkward...\n02:08 Gameplay Breakdown\n09:38 The Garage\n12:58 The Boss & Miniboss \n14:59 HUD Breakdown\n\nMERCHANDISE\n►Consider buying a Displate poster here: https://bit.ly/43Ujbk1\n►Buy more Posters & Apparel at https://vaatividya.com/\n\n\nSPECIAL THANKS TO\n►Mispap1, for Lore / Prepare to Cry editing and footage -  @mispap1\n►Frans Bouma, for your legendary Elden Ring camera tools - https://fransbouma.com/\n►Rainer, for their modding assistance in these videos -  @rainergeis4071\n\nPLAYLISTS\n►My Best Videos: http://bit.ly/2oMp66a\n►Elden Ring Prepare to Cry: https://bit.ly/3ApeG2N\n►Elden Ring Lore: https://bit.ly/3q3saNf\n►Elden Ring Secrets: https://bit.ly/3RdCNbQ\n►Elden Ring News: https://bit.ly/2ZkDV2d\n►Sekiro Lore: https://bit.ly/2KGEzD1\n►Sekiro Secrets: https://bit.ly/2IsObhW\n►Dark Souls 3 Lore: http://bit.ly/2n0bU13\n►Dark Souls 3 News: http://bit.ly/1NQbgbW\n►Bloodborne Lore: http://bit.ly/1X9doOQ\n►Demon's Souls Lore: http://bit.ly/16mIF86\n►Dark Souls Remastered Lore: http://bit.ly/13x6nNs\n►Dark Souls 2 Lore: http://bit.ly/1dedWjI\n►Souls-like: http://bit.ly/1xCPDnu\n\n\nSOCIAL\n►Follow me on Twitter: https://twitter.com/VaatiVidya\n►Follow me on TikTok: https://www.tiktok.com/@vaatividya\n►Follow me on Twitch.tv: http://www.twitch.tv/vaatividya\n►Follow me on Tumblr: http://vaatividya.tumblr.com/\n►Follow me on Facebook: https://www.facebook.com/Vaatividya\n►Follow me on Patreon: http://www.patreon.com/vaatividya\n►Join me on Discord: http://discord.gg/vaatividya\n\n\nMUSIC (most is royalty-free or licensed from Epidemic Sound. Sign up or browse here: (https://www.epidemicsound.com/referral/j49549/)\n►Remember on your memories by FreQuency\n\n\n\nPATRONS\n►I'd like to give sincere thanks to all my patrons - your contributions have changed the course of my life, allowing me to put more emphasis on video production in the future.\n\n\n►Special thanks to Soul of Cinder-tier Patrons: John, Mihaf, Matthew, Colin, budhawillyboy, Chattan, Aritz, Erlend, Michael, Finbarwrong, David, AmazinShawn, Aidan, Joshua, Ryan, Cat, Lucian, Nicholas, HugDucks, Kyle, Xavier, Justin, Andreas, Ian, Xensvet, Mike, Loak, Morningstar, Morgan, Vanguard, Ricakardsson, Seleiful, Dain, Diablo, Chase, Andronikos, Nezzly, Rune, Thomas, Jacob, One Unimpressed Boi, Matthew, Aj, GoldenSunX, Yousif, sean, Croonz, ndr.alng, Meistermuall, Armand, Albert, Liam, AJ, Aishlinn, Reiftyr, nicolas, and Ricky.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nUTPLucLU5I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nUTPLucLU5I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nUTPLucLU5I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nUTPLucLU5I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nUTPLucLU5I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "VaatiVidya",
+        "tags": [
+          "guide",
+          "walkthrough",
+          "lore",
+          "dark",
+          "souls",
+          "dlc",
+          "two",
+          "bloodborne",
+          "story",
+          "vaatividya",
+          "vaati",
+          "vidya",
+          "from",
+          "software",
+          "sekiro",
+          "combat",
+          "tips",
+          "tricks",
+          "elden",
+          "ring",
+          "trailer",
+          "remake",
+          "ps5",
+          "playstation 5",
+          "queen marika",
+          "demigods",
+          "great runes",
+          "radagon",
+          "mohg",
+          "morgott",
+          "radahn",
+          "malenia",
+          "miquella",
+          "melina",
+          "dragons",
+          "liurnia",
+          "leyndell",
+          "prepare to cry",
+          "frenzied flame",
+          "secrets",
+          "ranni questline",
+          "rune farm",
+          "armored core 6",
+          "vi",
+          "all endings",
+          "best build",
+          "shadow of the erdtree",
+          "SotE",
+          "fires of rubicon",
+          "demon's souls",
+          "mech",
+          "mecha",
+          "breakdown",
+          "HUD",
+          "reveal"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "An Extended Look at Armored Core 6",
+          "description": "►Learn about every single other Armored Core game: https://youtu.be/jNgY-kTPY3Q\n►Become a patron for early access, exclusive merch, and more http://www.patreon.com/vaatividya\n\nTIMESTAMPS ▼▼▼\n00:00 This is awkward...\n02:08 Gameplay Breakdown\n09:38 The Garage\n12:58 The Boss & Miniboss \n14:59 HUD Breakdown\n\nMERCHANDISE\n►Consider buying a Displate poster here: https://bit.ly/43Ujbk1\n►Buy more Posters & Apparel at https://vaatividya.com/\n\n\nSPECIAL THANKS TO\n►Mispap1, for Lore / Prepare to Cry editing and footage -  @mispap1\n►Frans Bouma, for your legendary Elden Ring camera tools - https://fransbouma.com/\n►Rainer, for their modding assistance in these videos -  @rainergeis4071\n\nPLAYLISTS\n►My Best Videos: http://bit.ly/2oMp66a\n►Elden Ring Prepare to Cry: https://bit.ly/3ApeG2N\n►Elden Ring Lore: https://bit.ly/3q3saNf\n►Elden Ring Secrets: https://bit.ly/3RdCNbQ\n►Elden Ring News: https://bit.ly/2ZkDV2d\n►Sekiro Lore: https://bit.ly/2KGEzD1\n►Sekiro Secrets: https://bit.ly/2IsObhW\n►Dark Souls 3 Lore: http://bit.ly/2n0bU13\n►Dark Souls 3 News: http://bit.ly/1NQbgbW\n►Bloodborne Lore: http://bit.ly/1X9doOQ\n►Demon's Souls Lore: http://bit.ly/16mIF86\n►Dark Souls Remastered Lore: http://bit.ly/13x6nNs\n►Dark Souls 2 Lore: http://bit.ly/1dedWjI\n►Souls-like: http://bit.ly/1xCPDnu\n\n\nSOCIAL\n►Follow me on Twitter: https://twitter.com/VaatiVidya\n►Follow me on TikTok: https://www.tiktok.com/@vaatividya\n►Follow me on Twitch.tv: http://www.twitch.tv/vaatividya\n►Follow me on Tumblr: http://vaatividya.tumblr.com/\n►Follow me on Facebook: https://www.facebook.com/Vaatividya\n►Follow me on Patreon: http://www.patreon.com/vaatividya\n►Join me on Discord: http://discord.gg/vaatividya\n\n\nMUSIC (most is royalty-free or licensed from Epidemic Sound. Sign up or browse here: (https://www.epidemicsound.com/referral/j49549/)\n►Remember on your memories by FreQuency\n\n\n\nPATRONS\n►I'd like to give sincere thanks to all my patrons - your contributions have changed the course of my life, allowing me to put more emphasis on video production in the future.\n\n\n►Special thanks to Soul of Cinder-tier Patrons: John, Mihaf, Matthew, Colin, budhawillyboy, Chattan, Aritz, Erlend, Michael, Finbarwrong, David, AmazinShawn, Aidan, Joshua, Ryan, Cat, Lucian, Nicholas, HugDucks, Kyle, Xavier, Justin, Andreas, Ian, Xensvet, Mike, Loak, Morningstar, Morgan, Vanguard, Ricakardsson, Seleiful, Dain, Diablo, Chase, Andronikos, Nezzly, Rune, Thomas, Jacob, One Unimpressed Boi, Matthew, Aj, GoldenSunX, Yousif, sean, Croonz, ndr.alng, Meistermuall, Armand, Albert, Liam, AJ, Aishlinn, Reiftyr, nicolas, and Ricky."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BVyfJQqvNsm5vuprWTjlyyS64_o",
+      "id": "nmBxJ2VcUk0",
+      "snippet": {
+        "publishedAt": "2023-06-14T09:00:29Z",
+        "channelId": "UC4eYXhJI4-7wSWc8UNRwD4A",
+        "title": "Tank: Tiny Desk Concert",
+        "description": "NPR Music is celebrating Black Music Month with an array of brand new Tiny Desk concerts. Together, these artists represent the past, present and future of Black music. This month of carefully curated shows is a celebration of Black artists expressing themselves in ways we've never seen before, and of the Tiny Desk's unique way of showcasing that talent.\n\nAshley Pointer | June 14, 2023\nIt's practically a sin to not have Durrell \"Tank\" Babbs on your spiciest playlist — he's penned some of the steamiest records in R&B. If you've been following our Black Music Month takeover, it's likely you spotted Tank accompanying Babyface, the love maestro himself, on background vocals. In his own concert, the veteran crooner and R&B scholar performed a 14-song medley of passionate love songs and bedroom bops from across his 23 years-long career in music, and turned the Tiny Desk into \"the big, nasty Desk.\"\n\nThis doesn't happen without warning: \"Some of these songs make you wanna make up. Some of these songs make you wanna breakup and some of these songs make you want to participate in various sexual activities,\" Tank declared before traversing his catalog. Backed by the phenomenal Florida-based MVP Band, along with a trio of famed background vocalists — singer-songwriter-actor Luke James, singer Brooke Valentine and songwriter/producer Lonny Bereal — we got a taste of the songs that not only established Tank as a pillar in R&B, but hits he wrote and produced for other notable artists such as Jamie Foxx, Omarion, Marques Houston and LeToya Luckett.\n\nFull of buttery smooth runs and yearning melodies (along with the occasional, witty HR joke), Tank's Tiny Desk concert is a stellar display of how powerful the allure of R&B can be, and perhaps a masterclass for any youngin' learning how to woo.\n\nSET LIST\n\"Slowly\"\n\"Coldest\"\n\"Do What It Do\"\n\"O\"\n\"Naked\"\n\"Regret\"\n\"When We\"\n\"Dirty\"\n\"Can't Let It Show\"\n\"Slow\"\n\"See Through Love\"\n\"Maybe I Deserve\"\n\"I Deserve\"\n\"Please Don't Go\"\n\nMUSICIANS\nTank: vocals\nLonny Bereal: vocals\nBrooke Valentine: vocals\nLuke James: vocals\nLa'Chaz Holloway: guitar\nAlex Hill: keys\nJevon Hill: keys, vocals\nArthur Jones: bass\nJimmy Hill: drums\n\nTINY DESK TEAM\nProducer: Bobby Carter\nDirector: Joshua Bryant\nAudio Engineer: Neil Tevault \nCreative Director: Bob Boilen\nEditor: Maia Stern\nVideographers: Joshua Bryant, Maia Stern, Sofia Seidel, Kara Frame\nAudio Assistant: Hannah Gluvna\nProduction Assistant: Ashley Pointer\nPhotographer: Elizabeth Gillis\nTiny Desk Team: Suraya Mohamed, Josh Rogosin, Hazel Cills\nVP, Visuals and Music: Keith Jenkins\nSenior VP, Programming: Anya Grundmann\n\n#nprmusic #tinydesk #tank",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nmBxJ2VcUk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nmBxJ2VcUk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nmBxJ2VcUk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nmBxJ2VcUk0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nmBxJ2VcUk0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NPR Music",
+        "tags": [
+          "NPR",
+          "NPR Music",
+          "National Public Radio",
+          "Live",
+          "Performance",
+          "tiny desk",
+          "tiny desk concert",
+          "tony desk",
+          "tiny concert"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Tank: Tiny Desk Concert",
+          "description": "NPR Music is celebrating Black Music Month with an array of brand new Tiny Desk concerts. Together, these artists represent the past, present and future of Black music. This month of carefully curated shows is a celebration of Black artists expressing themselves in ways we've never seen before, and of the Tiny Desk's unique way of showcasing that talent.\n\nAshley Pointer | June 14, 2023\nIt's practically a sin to not have Durrell \"Tank\" Babbs on your spiciest playlist — he's penned some of the steamiest records in R&B. If you've been following our Black Music Month takeover, it's likely you spotted Tank accompanying Babyface, the love maestro himself, on background vocals. In his own concert, the veteran crooner and R&B scholar performed a 14-song medley of passionate love songs and bedroom bops from across his 23 years-long career in music, and turned the Tiny Desk into \"the big, nasty Desk.\"\n\nThis doesn't happen without warning: \"Some of these songs make you wanna make up. Some of these songs make you wanna breakup and some of these songs make you want to participate in various sexual activities,\" Tank declared before traversing his catalog. Backed by the phenomenal Florida-based MVP Band, along with a trio of famed background vocalists — singer-songwriter-actor Luke James, singer Brooke Valentine and songwriter/producer Lonny Bereal — we got a taste of the songs that not only established Tank as a pillar in R&B, but hits he wrote and produced for other notable artists such as Jamie Foxx, Omarion, Marques Houston and LeToya Luckett.\n\nFull of buttery smooth runs and yearning melodies (along with the occasional, witty HR joke), Tank's Tiny Desk concert is a stellar display of how powerful the allure of R&B can be, and perhaps a masterclass for any youngin' learning how to woo.\n\nSET LIST\n\"Slowly\"\n\"Coldest\"\n\"Do What It Do\"\n\"O\"\n\"Naked\"\n\"Regret\"\n\"When We\"\n\"Dirty\"\n\"Can't Let It Show\"\n\"Slow\"\n\"See Through Love\"\n\"Maybe I Deserve\"\n\"I Deserve\"\n\"Please Don't Go\"\n\nMUSICIANS\nTank: vocals\nLonny Bereal: vocals\nBrooke Valentine: vocals\nLuke James: vocals\nLa'Chaz Holloway: guitar\nAlex Hill: keys\nJevon Hill: keys, vocals\nArthur Jones: bass\nJimmy Hill: drums\n\nTINY DESK TEAM\nProducer: Bobby Carter\nDirector: Joshua Bryant\nAudio Engineer: Neil Tevault \nCreative Director: Bob Boilen\nEditor: Maia Stern\nVideographers: Joshua Bryant, Maia Stern, Sofia Seidel, Kara Frame\nAudio Assistant: Hannah Gluvna\nProduction Assistant: Ashley Pointer\nPhotographer: Elizabeth Gillis\nTiny Desk Team: Suraya Mohamed, Josh Rogosin, Hazel Cills\nVP, Visuals and Music: Keith Jenkins\nSenior VP, Programming: Anya Grundmann\n\n#nprmusic #tinydesk #tank"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OhbiEI3gEGSD1pKNOUoUuqPIu-k",
+      "id": "fzAyZ1Lh-zI",
+      "snippet": {
+        "publishedAt": "2023-06-13T14:00:11Z",
+        "channelId": "UC2YnEq5Fc5_zEO6bo0oNzCQ",
+        "title": "Melanie Martinez - VOID (Official Music Video)",
+        "description": "'PORTALS' AVAILABLE Now: https://MelanieMartinez.lnk.to/PORTALSID \nShop vinyl, merch, and more: https://store.melaniemartinezmusic.com/\n\nCredits\nDirected by Melanie Martinez\n \nExecutive Producer: Wes Teshome\n Production Service Company: Dojohouse\nProducer: Abi Perl\nExecutive Producer: Danny Pollack\nProduction Manager: Autumn Maschi\nProduction Coordinator: Chris San Andres\n1st AD: Jasmine Thomas\nDirector of Photography: Nyk Allen\nProduction Designer: Wesley Goodrich\nStunt Coordinator: Charles Gresham \n \nPost:\nVFX and Design by Carbon\nMatthew McManus - Exec. Producer\nTina Starkweather - Head of Production\nMatthew Stevens - Creative Director\nNathan Lueptow - Senior Producer\n2D Lead - Michael Sarabia\nVFX Supervisor - Isaac Irvin\nCG Asset Lead - Will Moody\nAnimation Lead - Alex Rumsa\nColor Exec. Producer: Natalie Westerfield\nColorist: Briana Brackett\nEdit Company: Digital Sword\nEditor: Aris Cline\n \nGlam:\nCostume Design: Melanie Martinez \nCostume Construction: Muto Little\nKey Prosthetics &Key Special Makeup Effects: Malina Stearn\nStylist: Brett Alan Nelson\nKey Hair: William Scott Blair\n \nChoreographer: Jas Lin\n \nMarketing: Michelle Bodnar\nVideo Operations: Lily Thrall\n\nSubscribe for more official content from Melanie Martinez:\r\nhttps://melanie.lnk.to/MMsubscribe\r\n\r\nFollow Melanie Martinez\r\nhttps://facebook.com/melaniemartinezmusic\r\nhttps://twitter.com/melanielbbh\r\nhttps://instagram.com/littlebodybigheart\r\nhttps://soundcloud.com/melaniemartinezmusic\r\nhttp://melaniemartinezmusic.com\r\n\r\nThe official YouTube channel of Atlantic Records artist Melanie Martinez. Subscribe for the latest music videos, performances, and more.\n\n#melaniemartinez #void #portals",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fzAyZ1Lh-zI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fzAyZ1Lh-zI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fzAyZ1Lh-zI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fzAyZ1Lh-zI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fzAyZ1Lh-zI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "melanie martinez",
+        "tags": [
+          "melanie martinez",
+          "melanie",
+          "atlantic records",
+          "crybaby",
+          "cry baby",
+          "after school melanie",
+          "new melanie martinez",
+          "new melanie martinez music",
+          "melanie martinez k-12",
+          "k-12 videos",
+          "melanie k-12",
+          "melanie martinez portals",
+          "portals",
+          "portals melanie martinez",
+          "portals melanie",
+          "melanie death",
+          "death melanie martinez",
+          "death is life",
+          "mel death",
+          "melanie void",
+          "void",
+          "void portals",
+          "void melanie",
+          "into the void",
+          "the void",
+          "mel void",
+          "void mel",
+          "void song",
+          "void music video",
+          "melanie music video"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Melanie Martinez - VOID (Official Music Video)",
+          "description": "'PORTALS' AVAILABLE Now: https://MelanieMartinez.lnk.to/PORTALSID \nShop vinyl, merch, and more: https://store.melaniemartinezmusic.com/\n\nCredits\nDirected by Melanie Martinez\n \nExecutive Producer: Wes Teshome\n Production Service Company: Dojohouse\nProducer: Abi Perl\nExecutive Producer: Danny Pollack\nProduction Manager: Autumn Maschi\nProduction Coordinator: Chris San Andres\n1st AD: Jasmine Thomas\nDirector of Photography: Nyk Allen\nProduction Designer: Wesley Goodrich\nStunt Coordinator: Charles Gresham \n \nPost:\nVFX and Design by Carbon\nMatthew McManus - Exec. Producer\nTina Starkweather - Head of Production\nMatthew Stevens - Creative Director\nNathan Lueptow - Senior Producer\n2D Lead - Michael Sarabia\nVFX Supervisor - Isaac Irvin\nCG Asset Lead - Will Moody\nAnimation Lead - Alex Rumsa\nColor Exec. Producer: Natalie Westerfield\nColorist: Briana Brackett\nEdit Company: Digital Sword\nEditor: Aris Cline\n \nGlam:\nCostume Design: Melanie Martinez \nCostume Construction: Muto Little\nKey Prosthetics &Key Special Makeup Effects: Malina Stearn\nStylist: Brett Alan Nelson\nKey Hair: William Scott Blair\n \nChoreographer: Jas Lin\n \nMarketing: Michelle Bodnar\nVideo Operations: Lily Thrall\n\nSubscribe for more official content from Melanie Martinez:\r\nhttps://melanie.lnk.to/MMsubscribe\r\n\r\nFollow Melanie Martinez\r\nhttps://facebook.com/melaniemartinezmusic\r\nhttps://twitter.com/melanielbbh\r\nhttps://instagram.com/littlebodybigheart\r\nhttps://soundcloud.com/melaniemartinezmusic\r\nhttp://melaniemartinezmusic.com\r\n\r\nThe official YouTube channel of Atlantic Records artist Melanie Martinez. Subscribe for the latest music videos, performances, and more.\n\n#melaniemartinez #void #portals"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AdRB-wUdqEZfrYACBpxNa3H17XA",
+      "id": "mIDY-2muZRM",
+      "snippet": {
+        "publishedAt": "2023-06-14T16:15:02Z",
+        "channelId": "UCSAYHSNaY5_UEol4_frPurg",
+        "title": "Solving the Mysteries of My Ancient Pokémon",
+        "description": "I discovered hundreds of Pokémon I caught decades ago...but where did they come from?\n👕Get the new merch! https://mandjtvmerch.com/\n📽️Subscribe here! http://bit.ly/mandjtv_sub\n🎮Gameplay Channel MandJTV Plays! http://bit.ly/mandjtv_plays\n💸Support me on Patreon and get perks! http://bit.ly/mandjtv_patreon\n📱 TikTok! http://bit.ly/mandjtv_tiktok\n📸Instagram! http://bit.ly/mandjtv_insta\n👽Reddit! http://bit.ly/mandjtv_reddit\n🏪Amazon Storefront! http://bit.ly/mandjtv_shop\n\nI make Pokemon videos, such as Pokemon Scarlet and Violet content, Pokemon Legends Arceus content, Pokemon playthrough challenges, Top 10 or Top 5 Pokemon videos, Pokemon Talk, Pokemon Meme Review, and lots more! If you're any level of Pokemon fan, subscribe for videos you're sure to love!\n\nEdited by KeeLoker https://twitter.com/KeeLoker and Katie Rose https://twitter.com/KayteaR17\nMytey subscribe animation by Spoody: https://www.youtube.com/channel/UCtT-Ff9o7Ygj0dUu8wGiXcw\n\n#Pokemon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mIDY-2muZRM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mIDY-2muZRM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mIDY-2muZRM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mIDY-2muZRM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mIDY-2muZRM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MandJTV",
+        "tags": [
+          "New Pokemon games",
+          "New Pokemon",
+          "Top Pokemon",
+          "Pokemon Talk",
+          "MandJTV",
+          "MandJTV Pokevids",
+          "gaming",
+          "video games",
+          "nintendo switch",
+          "nintendo",
+          "pokemon",
+          "new games",
+          "family friendly",
+          "top 10",
+          "top 5",
+          "charizard",
+          "greninja",
+          "pikachu",
+          "best pokemon",
+          "all pokemon",
+          "original pokemon",
+          "retro games",
+          "retro pokemon games",
+          "nintendo pokemon",
+          "pokemon legends arceus",
+          "pokemon scarlet and violet",
+          "gen 9",
+          "nostalgia",
+          "pokemon home"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Solving the Mysteries of My Ancient Pokémon",
+          "description": "I discovered hundreds of Pokémon I caught decades ago...but where did they come from?\n👕Get the new merch! https://mandjtvmerch.com/\n📽️Subscribe here! http://bit.ly/mandjtv_sub\n🎮Gameplay Channel MandJTV Plays! http://bit.ly/mandjtv_plays\n💸Support me on Patreon and get perks! http://bit.ly/mandjtv_patreon\n📱 TikTok! http://bit.ly/mandjtv_tiktok\n📸Instagram! http://bit.ly/mandjtv_insta\n👽Reddit! http://bit.ly/mandjtv_reddit\n🏪Amazon Storefront! http://bit.ly/mandjtv_shop\n\nI make Pokemon videos, such as Pokemon Scarlet and Violet content, Pokemon Legends Arceus content, Pokemon playthrough challenges, Top 10 or Top 5 Pokemon videos, Pokemon Talk, Pokemon Meme Review, and lots more! If you're any level of Pokemon fan, subscribe for videos you're sure to love!\n\nEdited by KeeLoker https://twitter.com/KeeLoker and Katie Rose https://twitter.com/KayteaR17\nMytey subscribe animation by Spoody: https://www.youtube.com/channel/UCtT-Ff9o7Ygj0dUu8wGiXcw\n\n#Pokemon"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aZ6rnzI4eKKmcxrEia1ksqkM4O0",
+      "id": "IkJ1oI1D2w4",
+      "snippet": {
+        "publishedAt": "2023-06-14T00:00:08Z",
+        "channelId": "UCFlC8U0Uif2hF0FIgsSIIYQ",
+        "title": "Grupo Firme  - Alejandro Fernandez - Felicidades (Video Oficial)",
+        "description": "Grupo Firme - Alejandro Fernandez \n\"Felicidades \" Isael Gutierrez & Evert Gutierrez , Exclusive License To Music Vip Entertainment \nSuscríbete a Youtube: https://www.youtube.com/channel/UCFlC8U0Uif2hF0FIgsSIIYQ\nSuscribete Aqui https://bit.ly/333fXen\nSpotify https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl?si=26VEtj79QXuQWtbaH55FfQ\n\nDirector: Isael Gutierrez \nDirector: Evert Gutierrez\nTema: Felicidades\nAutor: Luis Mexia \nAutor: Iván Gámez\nDirector De Fotografia : Mane Borja \nDuración: 3:22\nLetra \nAndo haciendo una rifa pa’ mandar lejos\n¿Y qué crees? Tú traes todos los boletos\nMereces el primer lugar en eso de hacer todo mal\nLe echaste muchas ganas, ten tu premio y te me largas\n\nFelicidades\nTe ganaste una rifa que va \nDirectito a chingar a tu madre\nY en la categoria de las tonterias\nNo hubo quien te gane.\n\nFelicidades\nYa puedes reclamar tu futuro\nSin mi y ese va sin regreso\nMe disculpas si no \nPuse las instrucciones\nPa estar sin mis besos.\n\nNeta que mis respetos \nDe tu merito y esfuerzo\nPa ganarte mi desprecio.\n\nMUSICA \n\nFelicidades te \ngantas un boleto \nDirecto con rumbo \nA que me valgas madre.\nY en la categoria de las tontenias\nNo hubo quien te gane.\n\nFelicidades\nYa puedes reclamar tu futuro\nSin mi y ese va sin regreso\nMe disculpas si no \nPuse las instrucciones\nPa estar sin mis besos.\n\n\nNeta que mis respetos \nDe tu merito y esfuerzo\nPa ganarte mi desprecio.\nDisquera: Music VIP Entertainment  ℗ 2023\nGénero: Regional Mexicano \nEditora:Music VIP Entertainment\n\n© 2023 Music VIP Entertainment, LLC, \n\n#grupofirme #eduincaz #alejandrofernandez",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IkJ1oI1D2w4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IkJ1oI1D2w4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IkJ1oI1D2w4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IkJ1oI1D2w4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Grupo Firme",
+        "tags": [
+          "Grupo Firme",
+          "Grupo Firme music",
+          "Grupo Firme nuevo video",
+          "Grupo Firme video",
+          "Grupo Firme video oficial",
+          "Grupo Firme mix 2021",
+          "Grupo Firme Covers",
+          "Grupo Firme new video",
+          "Grupo Firme official video",
+          "Grupo Firme video nuevo",
+          "new single Grupo Firme",
+          "Firme",
+          "Firme music",
+          "Firme nuevo video",
+          "Firme video",
+          "Firme video oficial",
+          "Firme Covers",
+          "Firme mix 2021",
+          "Firme new video",
+          "Firme official video",
+          "Firme video nuevo",
+          "new single Firme"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es-MX",
+        "localized": {
+          "title": "Grupo Firme  - Alejandro Fernandez - Felicidades (Video Oficial)",
+          "description": "Grupo Firme - Alejandro Fernandez \n\"Felicidades \" Isael Gutierrez & Evert Gutierrez , Exclusive License To Music Vip Entertainment \nSuscríbete a Youtube: https://www.youtube.com/channel/UCFlC8U0Uif2hF0FIgsSIIYQ\nSuscribete Aqui https://bit.ly/333fXen\nSpotify https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl?si=26VEtj79QXuQWtbaH55FfQ\n\nDirector: Isael Gutierrez \nDirector: Evert Gutierrez\nTema: Felicidades\nAutor: Luis Mexia \nAutor: Iván Gámez\nDirector De Fotografia : Mane Borja \nDuración: 3:22\nLetra \nAndo haciendo una rifa pa’ mandar lejos\n¿Y qué crees? Tú traes todos los boletos\nMereces el primer lugar en eso de hacer todo mal\nLe echaste muchas ganas, ten tu premio y te me largas\n\nFelicidades\nTe ganaste una rifa que va \nDirectito a chingar a tu madre\nY en la categoria de las tonterias\nNo hubo quien te gane.\n\nFelicidades\nYa puedes reclamar tu futuro\nSin mi y ese va sin regreso\nMe disculpas si no \nPuse las instrucciones\nPa estar sin mis besos.\n\nNeta que mis respetos \nDe tu merito y esfuerzo\nPa ganarte mi desprecio.\n\nMUSICA \n\nFelicidades te \ngantas un boleto \nDirecto con rumbo \nA que me valgas madre.\nY en la categoria de las tontenias\nNo hubo quien te gane.\n\nFelicidades\nYa puedes reclamar tu futuro\nSin mi y ese va sin regreso\nMe disculpas si no \nPuse las instrucciones\nPa estar sin mis besos.\n\n\nNeta que mis respetos \nDe tu merito y esfuerzo\nPa ganarte mi desprecio.\nDisquera: Music VIP Entertainment  ℗ 2023\nGénero: Regional Mexicano \nEditora:Music VIP Entertainment\n\n© 2023 Music VIP Entertainment, LLC, \n\n#grupofirme #eduincaz #alejandrofernandez"
+        },
+        "defaultAudioLanguage": "es-MX"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NgQ-4rJyj7ow6ePrMh8pcokS0V0",
+      "id": "vfcGmVoPR2A",
+      "snippet": {
+        "publishedAt": "2023-06-14T16:00:29Z",
+        "channelId": "UCcgVECVN4OKV6DH1jLkqmcA",
+        "title": "I Flew Across The World To Surprise Her With This",
+        "description": "Flying across the world to surprise her with this...\nEntries for the Gas Monkey x Boxing Bullies Giveaway is officially open!\nhttps://www.gasmonkeygarage.com\n\nGO WATCH WHAT HAPPENED WITH MASVIDAL HERE:\nhttps://www.youtube.com/watch?v=2dSvetsbhJI&ab_channel=BSw%2FJakePaul\n\n🔴SUBSCRIBE ➤ http://bit.ly/SUB2JAKEPAUL \n↪ watch sum mo stuff➤  LINK HERE\n\nINSTAGRAM ➤  https://www.instagram.com/JakePaul \nTWITTER ➤  http://twitter.com/JakePaul \n\n⚠ WARNING ⚠\nPlease be warned (and we cannot possibly stress this enough); under no circumstances should any challenges, stunts, or pranks be attempted by any of our viewers. All challenges, stunts, and pranks are performed by trained professionals in a controlled environment and are for entertainment purposes only. Again, do not try anything you see in this content at home and always consult a parent or adult with any questions or concerns.\n\nDISCLAIMER ⚠\nWhile there occasionally may be paid promotions included in our content, like this episode, brands discussed in vlog content are only suggested for people of the appropriate age. Do your due diligence before downloading, purchasing or subscribing to anything mentioned and make sure you consult a parent or adult if you aren’t sure. Also!!! Make sure you are the appropriate age to visit websites and brands mentioned in our content and under no circumstances should you visit any brands or attempt to purchase any products if you are not of recommended age — do your due diligence, consult a parent or guardian if you’re not the appropriate age, and review their policies here https://apps.apple.com/us/story/id1538632801  (https://apps.apple.com/us/story/id1538632801) regarding privacy protection and legal scope. Now have fun!\n\nLicense ID: 5mdzlbAZeKM https://lickd.lnk.to/9pFyWUID!Jake+Paul\nLicense ID: dMlVPArepJK\n\n#JakePaul #PaulDiaz  #Puertorico",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vfcGmVoPR2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vfcGmVoPR2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vfcGmVoPR2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vfcGmVoPR2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vfcGmVoPR2A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jake Paul",
+        "tags": ["jake paul"],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I Flew Across The World To Surprise Her With This",
+          "description": "Flying across the world to surprise her with this...\nEntries for the Gas Monkey x Boxing Bullies Giveaway is officially open!\nhttps://www.gasmonkeygarage.com\n\nGO WATCH WHAT HAPPENED WITH MASVIDAL HERE:\nhttps://www.youtube.com/watch?v=2dSvetsbhJI&ab_channel=BSw%2FJakePaul\n\n🔴SUBSCRIBE ➤ http://bit.ly/SUB2JAKEPAUL \n↪ watch sum mo stuff➤  LINK HERE\n\nINSTAGRAM ➤  https://www.instagram.com/JakePaul \nTWITTER ➤  http://twitter.com/JakePaul \n\n⚠ WARNING ⚠\nPlease be warned (and we cannot possibly stress this enough); under no circumstances should any challenges, stunts, or pranks be attempted by any of our viewers. All challenges, stunts, and pranks are performed by trained professionals in a controlled environment and are for entertainment purposes only. Again, do not try anything you see in this content at home and always consult a parent or adult with any questions or concerns.\n\nDISCLAIMER ⚠\nWhile there occasionally may be paid promotions included in our content, like this episode, brands discussed in vlog content are only suggested for people of the appropriate age. Do your due diligence before downloading, purchasing or subscribing to anything mentioned and make sure you consult a parent or adult if you aren’t sure. Also!!! Make sure you are the appropriate age to visit websites and brands mentioned in our content and under no circumstances should you visit any brands or attempt to purchase any products if you are not of recommended age — do your due diligence, consult a parent or guardian if you’re not the appropriate age, and review their policies here https://apps.apple.com/us/story/id1538632801  (https://apps.apple.com/us/story/id1538632801) regarding privacy protection and legal scope. Now have fun!\n\nLicense ID: 5mdzlbAZeKM https://lickd.lnk.to/9pFyWUID!Jake+Paul\nLicense ID: dMlVPArepJK\n\n#JakePaul #PaulDiaz  #Puertorico"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jwXrVmGG-Zy1DiMTfe2ULwsYxtg",
+      "id": "grolRiRq1Ik",
+      "snippet": {
+        "publishedAt": "2023-06-14T04:00:03Z",
+        "channelId": "UCQdq-lqPEq_yZ_wP_kuVB9Q",
+        "title": "ATEEZ(에이티즈) - 'BOUNCY (K-HOT CHILLI PEPPERS)' Official MV Teaser 2",
+        "description": "[THE WORLD EP.2 : OUTLAW]\nRelease Date: 2023. 6. 16\n\n▶ ATEEZ Official Platform:\nhttp://ateez.kqent.com\n▶ ATEEZ Official Facebook:\nhttps://facebook.com/ATEEZofficial\n▶ ATEEZ Official Twitter:\nhttps://twitter.com/ATEEZofficial\n▶ ATEEZ Official Instagram:\nhttps://instagram.com/ATEEZ_official_\n\n▶ KQ Official Homepage: \nhttp://kqent.com\n▶ KQ Official Facebook: \nhttps://facebook.com/kqent\n▶ KQ Official Twitter: \nhttps://twitter.com/kqent\n▶ KQ Official Instagram:\nhttps://instagram.com/kqent\n\n#ATEEZ #에이티즈 #OUTLAW",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/grolRiRq1Ik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/grolRiRq1Ik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/grolRiRq1Ik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/grolRiRq1Ik/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/grolRiRq1Ik/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KQ ENTERTAINMENT",
+        "tags": [
+          "KQ",
+          "케이큐",
+          "에이티즈",
+          "ATEEZ",
+          "THE WORLD 스토리필름",
+          "에이티즈 스토리필름",
+          "ATEEZ STORY FILM",
+          "에이티즈 세계관 필름",
+          "에이티즈 세계관",
+          "ATEEZ THE WORLD 시리즈",
+          "ATEEZ THE WORLD STORY FILM",
+          "에이티즈 아웃로우",
+          "에이티즈 세계관 트레일러",
+          "HONGJOONG",
+          "SEONGHWA",
+          "YUNHO",
+          "YEOSANG",
+          "SAN",
+          "MINGI",
+          "WOOYOUNG",
+          "JONGHO",
+          "ATEEZ UNIVERSE FILM",
+          "ATEEZ BOUNCY",
+          "에이티즈 바운시",
+          "ATEEZ OUTLAW",
+          "ATEEZ trailer",
+          "ATEEZ 아웃로우",
+          "에이티즈 아웃로",
+          "에이티즈프리뷰",
+          "ATEEZ Preview",
+          "ATEEZ OUTLAW Preview",
+          "에이티즈 티저",
+          "에이티즈 뮤비 티저",
+          "ATEEZ Music video teaser",
+          "에이티즈 바운시 티저",
+          "에이티즈 BOUNCY 티저"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "ATEEZ(에이티즈) - 'BOUNCY (K-HOT CHILLI PEPPERS)' Official MV Teaser 2",
+          "description": "[THE WORLD EP.2 : OUTLAW]\nRelease Date: 2023. 6. 16\n\n▶ ATEEZ Official Platform:\nhttp://ateez.kqent.com\n▶ ATEEZ Official Facebook:\nhttps://facebook.com/ATEEZofficial\n▶ ATEEZ Official Twitter:\nhttps://twitter.com/ATEEZofficial\n▶ ATEEZ Official Instagram:\nhttps://instagram.com/ATEEZ_official_\n\n▶ KQ Official Homepage: \nhttp://kqent.com\n▶ KQ Official Facebook: \nhttps://facebook.com/kqent\n▶ KQ Official Twitter: \nhttps://twitter.com/kqent\n▶ KQ Official Instagram:\nhttps://instagram.com/kqent\n\n#ATEEZ #에이티즈 #OUTLAW"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GnrtqNXCZFwYvN5TXhG5cCXrhHo",
+      "id": "axxU1k2iUn8",
+      "snippet": {
+        "publishedAt": "2023-06-13T18:00:07Z",
+        "channelId": "UCUs8sGiP4avNaYNVO22INhQ",
+        "title": "Machine Gun Kelly X Doe Boy - Killa Cam Freestyle",
+        "description": "The Cypher: Machine Gun Kelly x Doe Boy  - Killa Cam Freestyle\n\nFollow @machinegunkelly:\nhttps://tiktok.com/@machinegunkelly \nhttp://twitter.com/machinegunkelly \nhttp://instagram.com/machinegunkelly \nhttp://facebook.com/machinegunkelly \nhttp://MachineGunKelly.lnk.to/newsletter\nhttp://machinegunkelly.com\n\n\nFollow @DoeBoyOfficial :\nhttps://www.instagram.com/doeboy/\nhttps://twitter.com/DoeBoyOfficial\nhttps://soundcloud.com/DoeBoyFBG\n\n#TheCypher #MachineGunKelly #DoeBoy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/axxU1k2iUn8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/axxU1k2iUn8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/axxU1k2iUn8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/axxU1k2iUn8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/axxU1k2iUn8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Machine Gun Kelly",
+        "tags": [
+          "machine gun kelly",
+          "mgk",
+          "the cypher",
+          "cypher",
+          "doe boy",
+          "cleveland",
+          "ohio",
+          "freestyle",
+          "mgk freestyle",
+          "doe boy freestyle",
+          "Cleveland freestyle",
+          "colson baker",
+          "colson",
+          "new mgk",
+          "new machine gun kelly",
+          "new doe boy",
+          "new freestyle",
+          "Machine gun Kelly 2023",
+          "Mgk lyrics",
+          "Machine gun Kelly lyric",
+          "Mgk pressure",
+          "Machine gun Kelly pressure",
+          "Mgk 2023",
+          "Mgk rap",
+          "Machine gun Kelly rap",
+          "Doe boy mgk",
+          "Doe Boy Machine Gun Kelly"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Machine Gun Kelly X Doe Boy - Killa Cam Freestyle",
+          "description": "The Cypher: Machine Gun Kelly x Doe Boy  - Killa Cam Freestyle\n\nFollow @machinegunkelly:\nhttps://tiktok.com/@machinegunkelly \nhttp://twitter.com/machinegunkelly \nhttp://instagram.com/machinegunkelly \nhttp://facebook.com/machinegunkelly \nhttp://MachineGunKelly.lnk.to/newsletter\nhttp://machinegunkelly.com\n\n\nFollow @DoeBoyOfficial :\nhttps://www.instagram.com/doeboy/\nhttps://twitter.com/DoeBoyOfficial\nhttps://soundcloud.com/DoeBoyFBG\n\n#TheCypher #MachineGunKelly #DoeBoy"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jR50-TmOq_RYAYjUkoyPlhv7kf4",
+      "id": "DyvwxoRtfH0",
+      "snippet": {
+        "publishedAt": "2023-06-14T16:00:13Z",
+        "channelId": "UC7NCg0venpKJg3kuJojKlbQ",
+        "title": "Season 4: Infection Trailer | Halo Infinite",
+        "description": "Halo Infinite’s Season 4: Infection arrives on June 20! ☣️ \n\nUnleash mayhem with a new 100-tier Battle Pass, maps, equipment, and the return of the fan-favorite Infection game mode. \n\nThis Season also marks the introduction of Halo Infinite’s Career Rank progression system, Forge improvements, enhanced weapon customization, and more!\n\n#HaloInfection #HaloInfinite #Halo \n--- \n\nConnect with us! \n\nWeb: https://halowaypoint.com \nTwitter: https://twitter.com/Halo \nInstagram: https://instagram.com/Halo\nFacebook: https://facebook.com/Halo\nTwitch: https://twitch.tv/Halo\nDiscord: https://discord.gg/Halo\n\nHalo Support\nWebsite: https://aka.ms/HaloSupport\nTwitter: https://twitter.com/HaloSupport",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DyvwxoRtfH0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DyvwxoRtfH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DyvwxoRtfH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DyvwxoRtfH0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DyvwxoRtfH0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HALO",
+        "tags": [
+          "Halo",
+          "Xbox",
+          "343 Industries",
+          "Master Chief",
+          "halo infinite season 4",
+          "halo infinite",
+          "halo infinite infection",
+          "halo infinite news",
+          "halo infinite season 3",
+          "halo",
+          "halo infinite update",
+          "halo infinite season 4 leaks",
+          "halo infection",
+          "halo infinite multiplayer",
+          "halo infinite leaks",
+          "halo infinite gameplay",
+          "halo infinite infection gameplay",
+          "season 4",
+          "halo infinite forge",
+          "halo infinite news update",
+          "halo infinite updates",
+          "infection"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Season 4: Infection Trailer | Halo Infinite",
+          "description": "Halo Infinite’s Season 4: Infection arrives on June 20! ☣️ \n\nUnleash mayhem with a new 100-tier Battle Pass, maps, equipment, and the return of the fan-favorite Infection game mode. \n\nThis Season also marks the introduction of Halo Infinite’s Career Rank progression system, Forge improvements, enhanced weapon customization, and more!\n\n#HaloInfection #HaloInfinite #Halo \n--- \n\nConnect with us! \n\nWeb: https://halowaypoint.com \nTwitter: https://twitter.com/Halo \nInstagram: https://instagram.com/Halo\nFacebook: https://facebook.com/Halo\nTwitch: https://twitch.tv/Halo\nDiscord: https://discord.gg/Halo\n\nHalo Support\nWebsite: https://aka.ms/HaloSupport\nTwitter: https://twitter.com/HaloSupport"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "v6acgbEc0z8NAUIGDAxLysIRleE",
+      "id": "2w_K3CB8PuE",
+      "snippet": {
+        "publishedAt": "2023-06-13T15:55:08Z",
+        "channelId": "UC_IRYSp4auq7hKLvziWVH6w",
+        "title": "Elio | Teaser Trailer",
+        "description": "An out-of-this-world teaser trailer for Disney and Pixar’s 28th feature film, “Elio,” are now available. Additions to the voice cast include: Jameela Jamil and Brad Garrett join previously announced America Ferrera and Yonas Kibreab in the intergalactic misadventure that is scheduled to take off next spring—March 1, 2024.\n \nFor centuries, people have called out to the universe looking for answers—in Disney and Pixar’s all-new movie “Elio,” the universe calls back! The original feature film introduces Elio, an underdog with an active imagination who finds himself inadvertently beamed up to the Communiverse, an interplanetary organization with representatives from galaxies far and wide. Mistakenly identified as Earth’s ambassador to the rest of the universe, and completely unprepared for that kind of pressure, Elio must form new bonds with eccentric alien lifeforms, survive a series of formidable trials and somehow discover who he is truly meant to be. \n \nDirected by Adrian Molina (screenwriter and co-director of “Coco”) and produced by Mary Alice Drumm (associate producer of “Coco”), the film features the voices of America Ferrera as Elio’s mom, Olga; Jameela Jamil as Ambassador Questa; Brad Garrett as Ambassador Grigon; and Yonas Kibreab as the title character. “Elio” releases in theaters March 1, 2024.\n\nFacebook:  https://Facebook.com/Pixar\nInstagram:  https://instagram.com/pixar\nTwitter:  https://twitter.com/pixar",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2w_K3CB8PuE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2w_K3CB8PuE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2w_K3CB8PuE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2w_K3CB8PuE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2w_K3CB8PuE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Pixar",
+        "tags": ["Pixar", "Disney", "Disney Pixar", "Pixar Movie", "Animation"],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Elio | Teaser Trailer",
+          "description": "An out-of-this-world teaser trailer for Disney and Pixar’s 28th feature film, “Elio,” are now available. Additions to the voice cast include: Jameela Jamil and Brad Garrett join previously announced America Ferrera and Yonas Kibreab in the intergalactic misadventure that is scheduled to take off next spring—March 1, 2024.\n \nFor centuries, people have called out to the universe looking for answers—in Disney and Pixar’s all-new movie “Elio,” the universe calls back! The original feature film introduces Elio, an underdog with an active imagination who finds himself inadvertently beamed up to the Communiverse, an interplanetary organization with representatives from galaxies far and wide. Mistakenly identified as Earth’s ambassador to the rest of the universe, and completely unprepared for that kind of pressure, Elio must form new bonds with eccentric alien lifeforms, survive a series of formidable trials and somehow discover who he is truly meant to be. \n \nDirected by Adrian Molina (screenwriter and co-director of “Coco”) and produced by Mary Alice Drumm (associate producer of “Coco”), the film features the voices of America Ferrera as Elio’s mom, Olga; Jameela Jamil as Ambassador Questa; Brad Garrett as Ambassador Grigon; and Yonas Kibreab as the title character. “Elio” releases in theaters March 1, 2024.\n\nFacebook:  https://Facebook.com/Pixar\nInstagram:  https://instagram.com/pixar\nTwitter:  https://twitter.com/pixar"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HeXPNR3qZDufwDtj3Rb7AglhcLU",
+      "id": "B4HpGW6yE4M",
+      "snippet": {
+        "publishedAt": "2023-06-14T12:00:09Z",
+        "channelId": "UCyXiDU5qjfOPxgOPeFWGwKw",
+        "title": "2023 Dodge Hornet GT Review // $30,000 Turbo Machine",
+        "description": "The 2023 Dodge Hornet GT ($40,190 starting in Canada, $31,830 in the US) is a brand new compact crossover with a torquey 2.0L turbo ‘Hurricane4’ engine. Dodge proudly displays that the Hornet GT is the quickest and most powerful CUV for the price. With 268 horsepower and 295 lb ft of torque, combined with an eLSD and all wheel drive, the Hornet GT certainly looks to make a performance statement. Thomas and James are excited to get behind the wheel and see what this brand new Dodge has to offer. We hope you enjoy the episode. Subscribe! \n\nHuge thank you to the whole team at Peel Chrysler for making this possible. Check out their inventory here! https://www.peelchryslerjeep.com\n\nEditor: Daniel Mason\nSound: Harrison Dickson and Daniel Mason\nMagical Genius Logistics Planner: James Engelsman \n\nEXTRA THROTTLE HOUSE!\nhttps://www.youtube.com/c/ExtraThrottleHouse\n\nThrottle House Merch!\nhttps://www.thethrottlehouse.com/merchandise/ \n\nInstagram! \nhttps://www.instagram.com/thethrottlehouse/\n\nFacebook! \nhttps://www.facebook.com/ThomasHollandProductions/\n\n#Dodge #Hornet #SUV",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B4HpGW6yE4M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B4HpGW6yE4M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B4HpGW6yE4M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B4HpGW6yE4M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B4HpGW6yE4M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Throttle House",
+        "tags": [
+          "2023 dodge hornet gt review",
+          "2023 dodge hornet rt",
+          "dodge hornet 0-60",
+          "dodge hornet exhaust",
+          "dodge hornet space",
+          "dodge hornet fast",
+          "new dodge",
+          "best crossover",
+          "best suv",
+          "dodge suv",
+          "dodge hornet vs alfa romeo tonale",
+          "dodge hornet vs kona n",
+          "dodge hornet vs cx5",
+          "dodge hornet vs jeep cherokee",
+          "dodge hornet vs hellcat",
+          "dodge vs ford",
+          "dodge vs chevy",
+          "dodge hornet gt plus",
+          "dodge hornet reliability",
+          "best dodge",
+          "dodge hornet srt",
+          "best new suv",
+          "fastest suv",
+          "2023 car review"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "2023 Dodge Hornet GT Review // $30,000 Turbo Machine",
+          "description": "The 2023 Dodge Hornet GT ($40,190 starting in Canada, $31,830 in the US) is a brand new compact crossover with a torquey 2.0L turbo ‘Hurricane4’ engine. Dodge proudly displays that the Hornet GT is the quickest and most powerful CUV for the price. With 268 horsepower and 295 lb ft of torque, combined with an eLSD and all wheel drive, the Hornet GT certainly looks to make a performance statement. Thomas and James are excited to get behind the wheel and see what this brand new Dodge has to offer. We hope you enjoy the episode. Subscribe! \n\nHuge thank you to the whole team at Peel Chrysler for making this possible. Check out their inventory here! https://www.peelchryslerjeep.com\n\nEditor: Daniel Mason\nSound: Harrison Dickson and Daniel Mason\nMagical Genius Logistics Planner: James Engelsman \n\nEXTRA THROTTLE HOUSE!\nhttps://www.youtube.com/c/ExtraThrottleHouse\n\nThrottle House Merch!\nhttps://www.thethrottlehouse.com/merchandise/ \n\nInstagram! \nhttps://www.instagram.com/thethrottlehouse/\n\nFacebook! \nhttps://www.facebook.com/ThomasHollandProductions/\n\n#Dodge #Hornet #SUV"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Zuv7JHizwW5CU00RpbSs2eKj8ss",
+      "id": "dX-LoIqpPp8",
+      "snippet": {
+        "publishedAt": "2023-06-14T14:00:31Z",
+        "channelId": "UCxaaULLk6UCnRl5VKRc7G0A",
+        "title": "Discord's New Usernames are Here...",
+        "description": "Usernames are being rolled out and it is problematic to put it kindly.\n\nThe way Discord is releasing these new usernames is through a rollout system. Waves of people gain access to change their Discord username. However, many people realize that a ton of usernames are taken... What gives?\n\nWell Discord has put in a fancy little reservation system which is so super clear and obvious and totally not making me want to smash my head against the wall. But it either completely screws you over, or it keeps your username safe and sound from people's grimy mittens.\n\n\nLINKS\n-----------------------------------------------------------------------------\nDiscord Previews Server\nhttps://discord.gg/discord-603970300668805120\n\n\nSOCIALS\n-----------------------------------------------------------------------------\nDiscord Server\nhttps://discord.gg/B46HXK5fZm\n\nTwitter\nhttps://twitter.com/notexttospeech\n\n\nTIMESTAMPS\n-----------------------------------------------------------------------------\n00:00 - Username Rollout\n01:45 - Reserved Username System\n03:55 - The Username Filter of all Time\n04:14 - Harassment\n05:35 - Rare Username Market\n07:50 - 1 Letter Usernames\n08:39 - Discord Staff Corrupt?1?1?!!?12!\n10:44 - I drink gasoline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dX-LoIqpPp8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dX-LoIqpPp8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dX-LoIqpPp8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dX-LoIqpPp8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dX-LoIqpPp8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "No Text To Speech",
+        "tags": [
+          "discord",
+          "discord change username",
+          "discord username update",
+          "discord name change",
+          "how to change discord username",
+          "discord username change",
+          "how to change username on discord",
+          "discord new username",
+          "discord username",
+          "discord tag",
+          "discord handles",
+          "discord server",
+          "discord memes",
+          "ntts",
+          "no text to speech",
+          "discord ntts",
+          "discord no text to speech",
+          "tutorial discord",
+          "discord usernames are here",
+          "discord display name"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Discord's New Usernames are Here...",
+          "description": "Usernames are being rolled out and it is problematic to put it kindly.\n\nThe way Discord is releasing these new usernames is through a rollout system. Waves of people gain access to change their Discord username. However, many people realize that a ton of usernames are taken... What gives?\n\nWell Discord has put in a fancy little reservation system which is so super clear and obvious and totally not making me want to smash my head against the wall. But it either completely screws you over, or it keeps your username safe and sound from people's grimy mittens.\n\n\nLINKS\n-----------------------------------------------------------------------------\nDiscord Previews Server\nhttps://discord.gg/discord-603970300668805120\n\n\nSOCIALS\n-----------------------------------------------------------------------------\nDiscord Server\nhttps://discord.gg/B46HXK5fZm\n\nTwitter\nhttps://twitter.com/notexttospeech\n\n\nTIMESTAMPS\n-----------------------------------------------------------------------------\n00:00 - Username Rollout\n01:45 - Reserved Username System\n03:55 - The Username Filter of all Time\n04:14 - Harassment\n05:35 - Rare Username Market\n07:50 - 1 Letter Usernames\n08:39 - Discord Staff Corrupt?1?1?!!?12!\n10:44 - I drink gasoline"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-cryFVUgh1kMrXaNoqCG0Kv6Rtc",
+      "id": "1LBXSuMm9_4",
+      "snippet": {
+        "publishedAt": "2023-06-14T16:00:01Z",
+        "channelId": "UCqg5FCR7NrpvlBWMXdt-5Vg",
+        "title": "The Lord of the Rings: Gollum (Zero Punctuation)",
+        "description": "Visit the link to purchase your own set of Adventure is Nigh dice here: https://diceenvy.com/collections/adventure-is-nigh\n\nSupport us on Patreon to get Early Access to new videos, exclusive Discord perks & more for just $2 per month ►► https://www.patreon.com/the_escapist\n\nThis week on Zero Punctuation, Yahtzee reviews The Lord of the Rings: Gollum.\n\nJoin our growing Discord community: https://discord.gg/A6T2gKrDwB\n\nSubscribe to Escapist Magazine! ►► http://bit.ly/Sub2Escapist\n\nWant to see the next episode a week early? Check out http://www.escapistmagazine.com for the latest episodes of your favorite shows.\n\n---\n\n\n\n---\n\nThe Escapist Merch Store ►►https://teespring.com/stores/the-escapist-store\nJoin us on Twitch ►► https://www.twitch.tv/the_escapist_official\nLike us on Facebook ►► http://www.facebook.com/EscapistMag\nFollow us on Twitter ►► https://twitter.com/EscapistMag",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1LBXSuMm9_4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1LBXSuMm9_4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1LBXSuMm9_4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1LBXSuMm9_4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1LBXSuMm9_4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Escapist",
+        "tags": [
+          "Zero Punctuation",
+          "ZP",
+          "The Escapist",
+          "Yahtzee Croshaw",
+          "The Lord of the Rings: Gollum",
+          "Gameplay",
+          "Review"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "The Lord of the Rings: Gollum (Zero Punctuation)",
+          "description": "Visit the link to purchase your own set of Adventure is Nigh dice here: https://diceenvy.com/collections/adventure-is-nigh\n\nSupport us on Patreon to get Early Access to new videos, exclusive Discord perks & more for just $2 per month ►► https://www.patreon.com/the_escapist\n\nThis week on Zero Punctuation, Yahtzee reviews The Lord of the Rings: Gollum.\n\nJoin our growing Discord community: https://discord.gg/A6T2gKrDwB\n\nSubscribe to Escapist Magazine! ►► http://bit.ly/Sub2Escapist\n\nWant to see the next episode a week early? Check out http://www.escapistmagazine.com for the latest episodes of your favorite shows.\n\n---\n\n\n\n---\n\nThe Escapist Merch Store ►►https://teespring.com/stores/the-escapist-store\nJoin us on Twitch ►► https://www.twitch.tv/the_escapist_official\nLike us on Facebook ►► http://www.facebook.com/EscapistMag\nFollow us on Twitter ►► https://twitter.com/EscapistMag"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fzmV1BQbtemMsfDsV_XFVGZ4ZSY",
+      "id": "tida3Ib7EAE",
+      "snippet": {
+        "publishedAt": "2023-06-14T15:34:46Z",
+        "channelId": "UC2eEGT06FrWFU6VBnPOR9lg",
+        "title": "Wife Reviews???",
+        "description": "Get exclusive NordVPN deal here ➵ https://NordVPN.com/girlfriendreviews\nIt’s risk free with Nord’s 30 day money-back guarantee!✌\n\nToday we invite you to our wedding. There's going to be donkeys, dancing, and grundle sweat. Will Girlfriend Reviews become Wife Reviews? Will we ever get around to a Tears of the Kingdom video? Find out now!\n\nThanks to the folks at Shalom Imaginative for the wedding footage! https://theshalomimaginative.com/\n\nTwitch: twitch.tv/girlfriendreviews\nMerch: https://www.backseatgamer.shop/store\nTwitter: @itsgfreviews\nInstagram: GirlfriendReviews\nPatreon: patreon.com/girlfriendreviews",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tida3Ib7EAE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tida3Ib7EAE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tida3Ib7EAE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tida3Ib7EAE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tida3Ib7EAE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Girlfriend Reviews",
+        "tags": [
+          "girlfriend reviews",
+          "review",
+          "games",
+          "gaming",
+          "gamer",
+          "sony",
+          "ps4",
+          "playstation",
+          "xbox",
+          "nintendo",
+          "switch",
+          "girlfriend review",
+          "pepper brick control",
+          "ps5",
+          "series x",
+          "PC"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Wife Reviews???",
+          "description": "Get exclusive NordVPN deal here ➵ https://NordVPN.com/girlfriendreviews\nIt’s risk free with Nord’s 30 day money-back guarantee!✌\n\nToday we invite you to our wedding. There's going to be donkeys, dancing, and grundle sweat. Will Girlfriend Reviews become Wife Reviews? Will we ever get around to a Tears of the Kingdom video? Find out now!\n\nThanks to the folks at Shalom Imaginative for the wedding footage! https://theshalomimaginative.com/\n\nTwitch: twitch.tv/girlfriendreviews\nMerch: https://www.backseatgamer.shop/store\nTwitter: @itsgfreviews\nInstagram: GirlfriendReviews\nPatreon: patreon.com/girlfriendreviews"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MlMf5m-kHu8t-1Yfd2ih5CnhUlo",
+      "id": "6smsQNjNXGg",
+      "snippet": {
+        "publishedAt": "2023-06-14T15:00:04Z",
+        "channelId": "UCekYgu4qTiqVtLcxgBbhjnw",
+        "title": "An Important Update on Homelander",
+        "description": "It’s a dark day for America. But together, we can keep an innocent hero #HomeFree. Here’s CEO Ashley Barrett with more on Homelander.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6smsQNjNXGg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6smsQNjNXGg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6smsQNjNXGg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6smsQNjNXGg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6smsQNjNXGg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vought International",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "An Important Update on Homelander",
+          "description": "It’s a dark day for America. But together, we can keep an innocent hero #HomeFree. Here’s CEO Ashley Barrett with more on Homelander."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "i1Ltx6VEkYUVkzHElDYSQEZIyvI",
+      "id": "f9npMJwhgF8",
+      "snippet": {
+        "publishedAt": "2023-06-14T02:38:54Z",
+        "channelId": "UCI1XS_GkLGDOgf8YLaaXNRA",
+        "title": "Friends can't take anything serious.",
+        "description": "Music\nOddwin - 19",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f9npMJwhgF8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f9npMJwhgF8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f9npMJwhgF8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f9npMJwhgF8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CalebCity",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Friends can't take anything serious.",
+          "description": "Music\nOddwin - 19"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "v-8Qg61nUWvSJ0E8Q05116B-vn4",
+      "id": "40JAEwcSJpQ",
+      "snippet": {
+        "publishedAt": "2023-06-13T23:00:04Z",
+        "channelId": "UCR_J_SntqJh5eXw66d5hJxA",
+        "title": "I Made The World’s Largest Ice Cream Cone!",
+        "description": "Thanks to Muddy Bites for making this project possible! Get yourself some delicious Muddy Bites at Walmart: https://go.muddybites.com/walmart or learn more about Muddy Bites at https://muddybites.com\nI broke the WORLD RECORD for the World’s Largest Ice Cream Cone!\nSUBSCRIBE for a chance at $1,000! ➔ https://www.youtube.com/c/Mbeem10?sub_confirmation=1\n\n📱 FOLLOW MY SOCIALS 📱\n➽ Instagram - @MatthewBeem\n➽ Twitter - @MatthewBeem\n➽ TikTok - @MatthewBeem\n\nI love ice cream and have a history of making some of the largest builds on YouTube so I decided to kick off summer in style by breaking the world record for the world’s largest ice cream cone! I have never built anything like this before and the fact that I live in hot Colorado, instead of cold Norway like the previous record holders, made this extremely difficult. We even had to build a hidden cooling chamber in the cone to prevent the ice cream from melting too quickly and had to create our own chocolate in order to get all of the waffles to stick. This video had lots of ups and downs, but we figured it all out, it turned out incredible and we actually broke the world record! This was insane and super intense to make, but we had lots of laughs along the way. I love making these videos and can't wait for you to see what is next. \n\nIf you’re reading this you’re a real one! \nComment “I love ice cream !\" so I can notice you!\n\nNot WORLDS BIGGEST ICE CREAM SUNDAE CHALLENGE, But Most ice cream scoops balanced on a cone, But I Built The World's Largest Lego Tower, But I Made The World's Largest Pizza (132 Feet), But Worlds Largest Working Computer, But Massive Ice Cream Sundae Challenge (11,000 Calories), But Is This the World's Largest Ice Cream Bar, But TKOR Attempts The Biggest Ice Cream In The World, But I Built Logan Paul the World's Largest Gameboy, But I Built The World's Largest Minecraft Statue, But Tallest Ice Cream Cone, But I Built World’s Largest Minecraft Sword, or any other video like Airrack, Furious Pete, Matthew Beem, MrBeast, Guinness World Records, TKOR, or Matt Stonie would make. This is a video where Matthew Beem (aka MBeem10) breaks the WORLD RECORD for the largest ice cream cone ever built!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/40JAEwcSJpQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/40JAEwcSJpQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/40JAEwcSJpQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/40JAEwcSJpQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/40JAEwcSJpQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Matthew Beem",
+        "tags": [
+          "mbeem10",
+          "matthew beem",
+          "beem team",
+          "matthew beam",
+          "beam team",
+          "worlds largest ice cream cone",
+          "guinness world records",
+          "world largest",
+          "ice cream",
+          "ice cream cone",
+          "ice cream bar",
+          "big ice cream",
+          "worlds biggest ice cream",
+          "biggest ice cream in the world",
+          "TKOR ice cream",
+          "tallest ice cream cone",
+          "tallest ice cream cone in the world",
+          "worlds largest pizza",
+          "worlds largest lego tower",
+          "Airrack",
+          "MrBeast",
+          "Muddy Bites",
+          "I built the world’s largest",
+          "TKOR",
+          "Furious Pete",
+          "Jake Carlini",
+          "Matt Stonie"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I Made The World’s Largest Ice Cream Cone!",
+          "description": "Thanks to Muddy Bites for making this project possible! Get yourself some delicious Muddy Bites at Walmart: https://go.muddybites.com/walmart or learn more about Muddy Bites at https://muddybites.com\nI broke the WORLD RECORD for the World’s Largest Ice Cream Cone!\nSUBSCRIBE for a chance at $1,000! ➔ https://www.youtube.com/c/Mbeem10?sub_confirmation=1\n\n📱 FOLLOW MY SOCIALS 📱\n➽ Instagram - @MatthewBeem\n➽ Twitter - @MatthewBeem\n➽ TikTok - @MatthewBeem\n\nI love ice cream and have a history of making some of the largest builds on YouTube so I decided to kick off summer in style by breaking the world record for the world’s largest ice cream cone! I have never built anything like this before and the fact that I live in hot Colorado, instead of cold Norway like the previous record holders, made this extremely difficult. We even had to build a hidden cooling chamber in the cone to prevent the ice cream from melting too quickly and had to create our own chocolate in order to get all of the waffles to stick. This video had lots of ups and downs, but we figured it all out, it turned out incredible and we actually broke the world record! This was insane and super intense to make, but we had lots of laughs along the way. I love making these videos and can't wait for you to see what is next. \n\nIf you’re reading this you’re a real one! \nComment “I love ice cream !\" so I can notice you!\n\nNot WORLDS BIGGEST ICE CREAM SUNDAE CHALLENGE, But Most ice cream scoops balanced on a cone, But I Built The World's Largest Lego Tower, But I Made The World's Largest Pizza (132 Feet), But Worlds Largest Working Computer, But Massive Ice Cream Sundae Challenge (11,000 Calories), But Is This the World's Largest Ice Cream Bar, But TKOR Attempts The Biggest Ice Cream In The World, But I Built Logan Paul the World's Largest Gameboy, But I Built The World's Largest Minecraft Statue, But Tallest Ice Cream Cone, But I Built World’s Largest Minecraft Sword, or any other video like Airrack, Furious Pete, Matthew Beem, MrBeast, Guinness World Records, TKOR, or Matt Stonie would make. This is a video where Matthew Beem (aka MBeem10) breaks the WORLD RECORD for the largest ice cream cone ever built!"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "K2yAH1JT414TKrWCEaqsygLHX9Q",
+      "id": "aR7aXOf8dCY",
+      "snippet": {
+        "publishedAt": "2023-06-13T13:57:26Z",
+        "channelId": "UC7_VH_kj0aD9vhuHmFheUYQ",
+        "title": "Man rescues wolf. Now they're obsessed with each other.",
+        "description": "Man rescues wolf. Now they're obsessed with each other.\n\nCheck out this story: https://www.instagram.com/apexprotectionproject/ and to support this organization: https://www.apexprotectionproject.org/donate\n\n#bekind #animals \n\n---------------------------\n\nYou Love Animal Videos? \nSubscribe To Us Here: https://www.youtube.com/user/geobeats...\n\nWatch Other Popular Videos:\nWild crow visits woman daily to play games - https://youtu.be/l_jGNTXwAAM\nThis man raised an opossum. Now he thinks they are smarter than dogs - https://youtu.be/Wz7GqNCkctU\nEvery sunrise, this bird visits a woman for cuddles - https://youtu.be/1QuQBnv3R_Y\nBlack cat wasn't getting adopted. Then this woman took him home - https://youtu.be/BtTygt98-1w\n\n\nFollow Us On Other Platforms:\nTwitter: https://twitter.com/geobeats\nFacebook: https://www.facebook.com/GeoBeatsAnimals\nInstagram: https://www.instagram.com/geobeatsani...\n\n\nAbout GeoBeats Animals\nGeoBeats is a US-based media company focused on telling inspiring animal stories about animals from around the world. Our goal is to make people fall in love with them and promote compassion and kindness.\n\nOn our channel, we feature exciting animal videos. You can watch funny cat videos, funny dog videos, cat and dog videos, animal stories, rescue animal videos, adopted animal videos and a lot more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aR7aXOf8dCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aR7aXOf8dCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aR7aXOf8dCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aR7aXOf8dCY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aR7aXOf8dCY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GeoBeats Animals",
+        "categoryId": "15",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Man rescues wolf. Now they're obsessed with each other.",
+          "description": "Man rescues wolf. Now they're obsessed with each other.\n\nCheck out this story: https://www.instagram.com/apexprotectionproject/ and to support this organization: https://www.apexprotectionproject.org/donate\n\n#bekind #animals \n\n---------------------------\n\nYou Love Animal Videos? \nSubscribe To Us Here: https://www.youtube.com/user/geobeats...\n\nWatch Other Popular Videos:\nWild crow visits woman daily to play games - https://youtu.be/l_jGNTXwAAM\nThis man raised an opossum. Now he thinks they are smarter than dogs - https://youtu.be/Wz7GqNCkctU\nEvery sunrise, this bird visits a woman for cuddles - https://youtu.be/1QuQBnv3R_Y\nBlack cat wasn't getting adopted. Then this woman took him home - https://youtu.be/BtTygt98-1w\n\n\nFollow Us On Other Platforms:\nTwitter: https://twitter.com/geobeats\nFacebook: https://www.facebook.com/GeoBeatsAnimals\nInstagram: https://www.instagram.com/geobeatsani...\n\n\nAbout GeoBeats Animals\nGeoBeats is a US-based media company focused on telling inspiring animal stories about animals from around the world. Our goal is to make people fall in love with them and promote compassion and kindness.\n\nOn our channel, we feature exciting animal videos. You can watch funny cat videos, funny dog videos, cat and dog videos, animal stories, rescue animal videos, adopted animal videos and a lot more."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ftGjBHqLcaR9Avo4trKpgGT8CNg",
+      "id": "1AkjzyudGWU",
+      "snippet": {
+        "publishedAt": "2023-06-13T17:00:07Z",
+        "channelId": "UCBKIrKI8ezApiTVkEknu6xg",
+        "title": "Polo G Freestyles Over Ja Rule’s “New York” Beat | Justin Credible’s Freestyles",
+        "description": "Directed, filmed & edited by @atribecalledhiphop \n\nPolo G taps in with Justin Credible for the 3-peat! For his third freestyle with Justin Credible, Polo G tackles Ja Rule’s “New York” beat. Drop a comment with who you want to see featured next on Justin Credible’s Freestyles!\n\n#PoloG #HipHop #JaRule \r\n\r\nSubscribe Now - http://bit.ly/17Rrvxu\r\nPower 106 Website - http://bit.ly/THwnRX \r\nListen Live - http://bit.ly/T0chlq",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1AkjzyudGWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1AkjzyudGWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1AkjzyudGWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1AkjzyudGWU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1AkjzyudGWU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Power 106 Los Angeles",
+        "tags": [
+          "Hip Hop News",
+          "Feature",
+          "Music",
+          "Rap",
+          "Celebrity News",
+          "latest news",
+          "freestyle",
+          "LA Leakers",
+          "Polo G",
+          "Ja Rule",
+          "Fat Joe",
+          "New York",
+          "Chicago"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Polo G Freestyles Over Ja Rule’s “New York” Beat | Justin Credible’s Freestyles",
+          "description": "Directed, filmed & edited by @atribecalledhiphop \n\nPolo G taps in with Justin Credible for the 3-peat! For his third freestyle with Justin Credible, Polo G tackles Ja Rule’s “New York” beat. Drop a comment with who you want to see featured next on Justin Credible’s Freestyles!\n\n#PoloG #HipHop #JaRule \r\n\r\nSubscribe Now - http://bit.ly/17Rrvxu\r\nPower 106 Website - http://bit.ly/THwnRX \r\nListen Live - http://bit.ly/T0chlq"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pwhRRrIRRGFVyiBPgBVEkczmRrI",
+      "id": "z2xe0NP2fPw",
+      "snippet": {
+        "publishedAt": "2023-06-13T15:26:08Z",
+        "channelId": "UC9U1DWz9_zHQxYRWHFOuuNw",
+        "title": "I Put LeBron and Kobe In The Same Draft Class",
+        "description": "Instead of putting every NBA star into their prime except one person, today were taking two players from that series and putting them in the same draft class - the two being LeBron James and Kobe Bryant. Both are easily two of the top players the NBA has ever seen, but whos better? LeBron or Kobe? Today we find out who's the ACTUAL NBA Goat\n\n\n\n\n\nGet Coffin Nails by MF Doom and over 1M + mainstream tracks here https://go.lickd.co/Music\n\nLicense ID: XOGAEYElGQV\n\nGet Crunk Ain't Dead by Duke Deuce and over 1M + mainstream tracks here https://go.lickd.co/Music\n\nLicense ID: kwepDRDBeVG https://lickd.lnk.to/G6a29WID!Med",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z2xe0NP2fPw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z2xe0NP2fPw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z2xe0NP2fPw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z2xe0NP2fPw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z2xe0NP2fPw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Med",
+        "tags": [
+          "NBA 2K",
+          "NBA 2K23",
+          "mynba",
+          "myleague",
+          "mynba eras",
+          "med 2k",
+          "nba 2k23 career sim",
+          "nba 2k23 career simulation",
+          "career simulation",
+          "nba 2k23 rebuild",
+          "nba 2k23 rebuilding",
+          "nba 2k myleague",
+          "nba 2k mynba",
+          "nba 2k23 myleague",
+          "nba 2k23 mynba",
+          "nba 2k simulation",
+          "nba 2k23 simulation",
+          "NBA",
+          "lebron and kobe",
+          "lebron james kobe",
+          "kobe",
+          "kobe bryant",
+          "lebron james",
+          "i put lebron and kobe in the same draft class",
+          "lebron kobe simulation"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I Put LeBron and Kobe In The Same Draft Class",
+          "description": "Instead of putting every NBA star into their prime except one person, today were taking two players from that series and putting them in the same draft class - the two being LeBron James and Kobe Bryant. Both are easily two of the top players the NBA has ever seen, but whos better? LeBron or Kobe? Today we find out who's the ACTUAL NBA Goat\n\n\n\n\n\nGet Coffin Nails by MF Doom and over 1M + mainstream tracks here https://go.lickd.co/Music\n\nLicense ID: XOGAEYElGQV\n\nGet Crunk Ain't Dead by Duke Deuce and over 1M + mainstream tracks here https://go.lickd.co/Music\n\nLicense ID: kwepDRDBeVG https://lickd.lnk.to/G6a29WID!Med"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PcX7qScZ83CF_gqA-2fmNSTTmUI",
+      "id": "sxRdKRORYoA",
+      "snippet": {
+        "publishedAt": "2023-06-14T12:00:44Z",
+        "channelId": "UCmGSJVG3mCRXVOP4yZrU1Dw",
+        "title": "Why China and the USA are Fighting Over Greenland",
+        "description": "Why Greenland is Suddenly So Important\nCheck out Storyblocks and sign up for their Unlimited All Access Plan: https://www.storyblocks.com/johnnyharris\nThanks to Storyblocks for sponsoring this video.\n\nAs the world gets warmer due to man-made climate change, geopolitical competition is heating up in the arctic. And Greenland is finding itself at the center of this competition, as world superpowers fight each other for economic influence and geopolitical control. \n\nThis video was filmed in February 2023 in Greenland, with the help of many people.\n\nGo watch Q's Greenland to learn more about this country and culture: https://www.youtube.com/channel/UC9TyctkYTsRUmCX138l6Dug\n\nIf you're going to Greenland and want a guide, Mark was excellent. He's based in Disko Island: https://www.instagram.com/basaltic.tours/\n\nThanks to Visit Greenland and Hotel Icefjord for supporting portions of this trip to Greenland.\n\nMy next video is live on Nebula NOW! It's about how Oklahoma could have looked a lot different. Watch now: https://nebula.tv/videos/johnnyharris-how-the-us-stole-oklahoma-sequoya\n\nCheck out all my sources for this video here: https://docs.google.com/document/d/1omQ7DZ6ing0tVVXTMtZ8au7ZebPVZvJSIkBfnpkcAP8/edit?usp=sharing\n\nGet access to behind-the-scenes vlogs, my scripts, and extended interviews over at https://www.patreon.com/johnnyharris\n\nI made a poster about maps - check it out: https://store.dftba.com/products/all-maps-are-wrong-poster\n\nCustom Presets & LUTs [what we use]: https://store.dftba.com/products/johnny-iz-luts-and-presets\n\nThe music for this video, created by our in house composer Tom Fox, is available on our music channel, The Listening Room! Follow the link to hear this soundtrack and many more: https://youtu.be/DPMfsbGkeCw\n\nAbout: \nJohnny Harris is an Emmy-winning independent journalist and contributor to the New York Times. Based in Washington, DC, Harris reports on interesting trends and stories domestically and around the globe, publishing to his audience of over 3.5 million on Youtube.  Harris produced and hosted the twice Emmy-nominated series Borders for Vox Media. His visual style blends motion graphics with cinematic videography to create content that explains complex issues in relatable ways.\n\n- press - \nNYTimes: https://www.nytimes.com/2021/11/09/opinion/democrats-blue-states-legislation.html\nNYTimes: https://www.nytimes.com/video/opinion/100000007358968/covid-pandemic-us-response.html\nVox Borders: https://www.youtube.com/watch?v=hLrFyjGZ9NU\nNPR Planet Money: https://www.npr.org/transcripts/1072164745\n\n\n- where to find me -\nInstagram: https://www.instagram.com/johnny.harris/\nTiktok: https://www.tiktok.com/@johnny.harris\nFacebook: https://www.facebook.com/JohnnyHarrisVox\nIz's (my wife’s) channel: https://www.youtube.com/iz-harris\n\n- how i make my videos -\nTom Fox makes my music, work with him here: https://tfbeats.com/\nI make maps using this AE Plugin: https://aescripts.com/geolayers/?aff=77\nAll the gear I use: https://www.izharris.com/gear-guide\n \n- my courses - \nLearn a language: https://brighttrip.com/course/language/\nVisual storytelling: https://www.brighttrip.com/courses/visual-storytelling",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sxRdKRORYoA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sxRdKRORYoA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sxRdKRORYoA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sxRdKRORYoA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sxRdKRORYoA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Johnny Harris",
+        "tags": [
+          "Johnny Harris",
+          "Johnny Harris Vox",
+          "Vox Borders",
+          "Johnny Harris Vox Borders",
+          "Vox",
+          "greenland",
+          "politics",
+          "denmark",
+          "inuit",
+          "china",
+          "usa",
+          "natural resources",
+          "shipping lanes",
+          "trade",
+          "economy",
+          "war",
+          "global warming",
+          "climate change",
+          "arctic",
+          "winter",
+          "sea ice",
+          "territories",
+          "geopolitics"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Why China and the USA are Fighting Over Greenland",
+          "description": "Why Greenland is Suddenly So Important\nCheck out Storyblocks and sign up for their Unlimited All Access Plan: https://www.storyblocks.com/johnnyharris\nThanks to Storyblocks for sponsoring this video.\n\nAs the world gets warmer due to man-made climate change, geopolitical competition is heating up in the arctic. And Greenland is finding itself at the center of this competition, as world superpowers fight each other for economic influence and geopolitical control. \n\nThis video was filmed in February 2023 in Greenland, with the help of many people.\n\nGo watch Q's Greenland to learn more about this country and culture: https://www.youtube.com/channel/UC9TyctkYTsRUmCX138l6Dug\n\nIf you're going to Greenland and want a guide, Mark was excellent. He's based in Disko Island: https://www.instagram.com/basaltic.tours/\n\nThanks to Visit Greenland and Hotel Icefjord for supporting portions of this trip to Greenland.\n\nMy next video is live on Nebula NOW! It's about how Oklahoma could have looked a lot different. Watch now: https://nebula.tv/videos/johnnyharris-how-the-us-stole-oklahoma-sequoya\n\nCheck out all my sources for this video here: https://docs.google.com/document/d/1omQ7DZ6ing0tVVXTMtZ8au7ZebPVZvJSIkBfnpkcAP8/edit?usp=sharing\n\nGet access to behind-the-scenes vlogs, my scripts, and extended interviews over at https://www.patreon.com/johnnyharris\n\nI made a poster about maps - check it out: https://store.dftba.com/products/all-maps-are-wrong-poster\n\nCustom Presets & LUTs [what we use]: https://store.dftba.com/products/johnny-iz-luts-and-presets\n\nThe music for this video, created by our in house composer Tom Fox, is available on our music channel, The Listening Room! Follow the link to hear this soundtrack and many more: https://youtu.be/DPMfsbGkeCw\n\nAbout: \nJohnny Harris is an Emmy-winning independent journalist and contributor to the New York Times. Based in Washington, DC, Harris reports on interesting trends and stories domestically and around the globe, publishing to his audience of over 3.5 million on Youtube.  Harris produced and hosted the twice Emmy-nominated series Borders for Vox Media. His visual style blends motion graphics with cinematic videography to create content that explains complex issues in relatable ways.\n\n- press - \nNYTimes: https://www.nytimes.com/2021/11/09/opinion/democrats-blue-states-legislation.html\nNYTimes: https://www.nytimes.com/video/opinion/100000007358968/covid-pandemic-us-response.html\nVox Borders: https://www.youtube.com/watch?v=hLrFyjGZ9NU\nNPR Planet Money: https://www.npr.org/transcripts/1072164745\n\n\n- where to find me -\nInstagram: https://www.instagram.com/johnny.harris/\nTiktok: https://www.tiktok.com/@johnny.harris\nFacebook: https://www.facebook.com/JohnnyHarrisVox\nIz's (my wife’s) channel: https://www.youtube.com/iz-harris\n\n- how i make my videos -\nTom Fox makes my music, work with him here: https://tfbeats.com/\nI make maps using this AE Plugin: https://aescripts.com/geolayers/?aff=77\nAll the gear I use: https://www.izharris.com/gear-guide\n \n- my courses - \nLearn a language: https://brighttrip.com/course/language/\nVisual storytelling: https://www.brighttrip.com/courses/visual-storytelling"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "i2xy51JfDejQQ95OqUc7BIKEjWU",
+      "id": "pZbHAWKQI1k",
+      "snippet": {
+        "publishedAt": "2023-06-13T15:00:38Z",
+        "channelId": "UCGfclwcB8i13_4tp_FJjqbQ",
+        "title": "*JACKPOT* DOLLAR TREE FINDS (New organization, solar lights and dupes!)",
+        "description": "Jackpot Dollar Tree haul! Save 20% on your first Native purchase! Click here https://bit.ly/nativechiccheap3 and use my code CHICCHEAP3 #ad \n\nNATIVE BODY WASH REVIEW #NativePartner #Bodywash\n\r\nThis video was kindly sponsored by NATIVE.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pZbHAWKQI1k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pZbHAWKQI1k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pZbHAWKQI1k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pZbHAWKQI1k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pZbHAWKQI1k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ChicOnTheCheap",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "*JACKPOT* DOLLAR TREE FINDS (New organization, solar lights and dupes!)",
+          "description": "Jackpot Dollar Tree haul! Save 20% on your first Native purchase! Click here https://bit.ly/nativechiccheap3 and use my code CHICCHEAP3 #ad \n\nNATIVE BODY WASH REVIEW #NativePartner #Bodywash\n\r\nThis video was kindly sponsored by NATIVE."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0pvvKCHL-hdQisnk4SYPiam4QNU",
+      "id": "c7K2TA0bBpY",
+      "snippet": {
+        "publishedAt": "2023-06-12T18:08:56Z",
+        "channelId": "UC0KU8F9jJqSLS11LRXvFWmg",
+        "title": "Star Wars Outlaws: Official Gameplay Walkthrough | Ubisoft Forward",
+        "description": "Watch the official gameplay walkthrough of Star Wars Outlaws. Experience the first ever open world Star Wars game and risk it all as Kay Vess, a scoundrel seeking freedom and the means to start a new life. Coming 2024.\n\nAbout Star Wars Outlaws:\nExperience the first-ever open world Star Wars™ game, set between the events ofThe Empire Strikes Back and Return of the Jedi. Explore distinct planets across the galaxy, both iconic and new. Risk it all as Kay Vess, an emerging scoundrel seeking freedom and the means to start a new life, along with her companion Nix. Fight, steal, and outwit your way through the galaxy’s crime syndicates as you join the galaxy’s most wanted.\n\nLearn more at: https://starwarsoutlaws.com/\n\nINSTAGRAM: https://www.instagram.com/starwarsoutlaws/\nFACEBOOK: https://www.facebook.com/starwarsoutlaws\nTWITTER: https://twitter.com/starwarsoutlaws\nDISCORD: https://discord.gg/starwarsoutlaws\n\n#Ubisoft #StarWarsOutlaws\n\nAbout Ubisoft:\nUbisoft is a creator of worlds, committed to enriching players’ lives with original and memorable entertainment experiences. Ubisoft’s global teams create and develop a deep and diverse portfolio of games, featuring brands such as Assassin’s Creed®, Brawlhalla®, For Honor®, Far Cry®, Tom Clancy’s Ghost Recon®, Just Dance®, Rabbids®, Tom Clancy’s Rainbow Six®, The Crew®, Tom Clancy’s The Division®, and Watch Dogs®. Through Ubisoft Connect, players can enjoy an ecosystem of services to enhance their gaming experience, get rewards and connect with friends across platforms. With Ubisoft+, the subscription service, they can access a growing catalog of more than 100 Ubisoft games and DLC. For the 2021–22 fiscal year, Ubisoft generated net bookings of €2,129 million. To learn more, please visit: www.ubisoftgroup.com.\n\n© 2023 Ubisoft Entertainment. All Rights Reserved. Ubisoft and the Ubisoft logo are registered trademarks in the US and/or other countries.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c7K2TA0bBpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c7K2TA0bBpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c7K2TA0bBpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c7K2TA0bBpY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c7K2TA0bBpY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ubisoft",
+        "tags": ["Ubisoft", "StarWarsOutlaws", "StarWars"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Star Wars Outlaws: Official Gameplay Walkthrough | Ubisoft Forward",
+          "description": "Watch the official gameplay walkthrough of Star Wars Outlaws. Experience the first ever open world Star Wars game and risk it all as Kay Vess, a scoundrel seeking freedom and the means to start a new life. Coming 2024.\n\nAbout Star Wars Outlaws:\nExperience the first-ever open world Star Wars™ game, set between the events ofThe Empire Strikes Back and Return of the Jedi. Explore distinct planets across the galaxy, both iconic and new. Risk it all as Kay Vess, an emerging scoundrel seeking freedom and the means to start a new life, along with her companion Nix. Fight, steal, and outwit your way through the galaxy’s crime syndicates as you join the galaxy’s most wanted.\n\nLearn more at: https://starwarsoutlaws.com/\n\nINSTAGRAM: https://www.instagram.com/starwarsoutlaws/\nFACEBOOK: https://www.facebook.com/starwarsoutlaws\nTWITTER: https://twitter.com/starwarsoutlaws\nDISCORD: https://discord.gg/starwarsoutlaws\n\n#Ubisoft #StarWarsOutlaws\n\nAbout Ubisoft:\nUbisoft is a creator of worlds, committed to enriching players’ lives with original and memorable entertainment experiences. Ubisoft’s global teams create and develop a deep and diverse portfolio of games, featuring brands such as Assassin’s Creed®, Brawlhalla®, For Honor®, Far Cry®, Tom Clancy’s Ghost Recon®, Just Dance®, Rabbids®, Tom Clancy’s Rainbow Six®, The Crew®, Tom Clancy’s The Division®, and Watch Dogs®. Through Ubisoft Connect, players can enjoy an ecosystem of services to enhance their gaming experience, get rewards and connect with friends across platforms. With Ubisoft+, the subscription service, they can access a growing catalog of more than 100 Ubisoft games and DLC. For the 2021–22 fiscal year, Ubisoft generated net bookings of €2,129 million. To learn more, please visit: www.ubisoftgroup.com.\n\n© 2023 Ubisoft Entertainment. All Rights Reserved. Ubisoft and the Ubisoft logo are registered trademarks in the US and/or other countries."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jZdcHV-gPALNQHoOVpGsbMejL8c",
+      "id": "8gQ8Z3FZefQ",
+      "snippet": {
+        "publishedAt": "2023-06-13T19:27:33Z",
+        "channelId": "UCRaehQPWXnJ72WmE8nvvKKw",
+        "title": "Do NOT Play These Rec Room Games…",
+        "description": "PICO4 VR Headset GIVEAWAY, Win BIG prizes here: https://bit.ly/jmancurly_giveaway\nCheck out more about PICO4 here: https://bit.ly/jmancurly\n\n@PICOXR \n#picoxr\n#pico4\n#sponsored\n\nJoin the Discord to chat with me, other great people, and to be in my videos! https://www.discord.gg/jmancurly\n\nMy Second Channel: youtube.com/@jmancurlyreacts\n\nSend Me Mail: 207 Bank St. Ottawa, ON. Canada, Suite No.: 1500, K2P 2N2\n\nFollow me on TikTok!\nhttps://www.tiktok.com/@jmancurly\n\nFollow me on Instagram!\nhttps://www.instagram.com/jmancurlyofficial\n\nFollow me on Twitter!\nhttps://twitter.com/jmancurly\n\nIn today's scrumdiddlyumptious Rec Room VR horror video me and my perfidious friends play the top 5 scariest VR horror games. The Pico 4's duplicitous nature offered a comfortable playing experience. IdenPizzaTime wrote this.\n\n-----------------------------------------------------\n\nI do not own any of the music, pictures, overlays/chroma key, external video clips, or sound effects used in this video. Unless I do, which I usually don't.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8gQ8Z3FZefQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8gQ8Z3FZefQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8gQ8Z3FZefQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8gQ8Z3FZefQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8gQ8Z3FZefQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "jmancurly",
+        "tags": [
+          "julian elchakieh",
+          "julian",
+          "elchakieh",
+          "jmancurly",
+          "jman",
+          "vr",
+          "virtual reality",
+          "oculus quest",
+          "oculus quest 2",
+          "new vr games",
+          "virtual reality gaming",
+          "free vr games",
+          "jmancurly discord"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Do NOT Play These Rec Room Games…",
+          "description": "PICO4 VR Headset GIVEAWAY, Win BIG prizes here: https://bit.ly/jmancurly_giveaway\nCheck out more about PICO4 here: https://bit.ly/jmancurly\n\n@PICOXR \n#picoxr\n#pico4\n#sponsored\n\nJoin the Discord to chat with me, other great people, and to be in my videos! https://www.discord.gg/jmancurly\n\nMy Second Channel: youtube.com/@jmancurlyreacts\n\nSend Me Mail: 207 Bank St. Ottawa, ON. Canada, Suite No.: 1500, K2P 2N2\n\nFollow me on TikTok!\nhttps://www.tiktok.com/@jmancurly\n\nFollow me on Instagram!\nhttps://www.instagram.com/jmancurlyofficial\n\nFollow me on Twitter!\nhttps://twitter.com/jmancurly\n\nIn today's scrumdiddlyumptious Rec Room VR horror video me and my perfidious friends play the top 5 scariest VR horror games. The Pico 4's duplicitous nature offered a comfortable playing experience. IdenPizzaTime wrote this.\n\n-----------------------------------------------------\n\nI do not own any of the music, pictures, overlays/chroma key, external video clips, or sound effects used in this video. Unless I do, which I usually don't."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3nLcuEL9LVx98htucH-SjU-V85A",
+      "id": "owjVpYCmwcg",
+      "snippet": {
+        "publishedAt": "2023-06-13T09:13:02Z",
+        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+        "title": "BTS (방탄소년단) 'Take Two' Live Clip #2023BTSFESTA",
+        "description": "Connect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://btsblog.ibighit.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/owjVpYCmwcg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/owjVpYCmwcg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/owjVpYCmwcg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/owjVpYCmwcg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/owjVpYCmwcg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BANGTANTV",
+        "tags": [
+          "방탄소년단",
+          "BTS",
+          "BANGTAN",
+          "알엠",
+          "RM",
+          "슈가",
+          "SUGA",
+          "제이홉",
+          "jhope",
+          "지민",
+          "정국",
+          "k-pop",
+          "방탄",
+          "j-hope",
+          "Jung Kook",
+          "Jimin",
+          "BTS V",
+          "Jin"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "BTS (방탄소년단) 'Take Two' Live Clip #2023BTSFESTA",
+          "description": "Connect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://btsblog.ibighit.com"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}
