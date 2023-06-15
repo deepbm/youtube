@@ -1,6 +1,37 @@
 import axios from 'axios';
 
-export async function search(keyword) {
-  const { data } = await axios.get(`/data/${keyword ? 'search' : 'popular'}.json`);
-  return data.items;
+export default class Youtube {
+  constructor() {
+    this.httpClient = axios.create({
+      baseURL: 'https://youtube.googleapis.com/youtube/v3',
+      params: { key: process.env.REACT_APP_YOUTUBE_API_KEY },
+    });
+  }
+
+  async #mostPopular() {
+    const { data } = await this.httpClient.get('/videos', {
+      params: {
+        part: 'snippet',
+        maxResults: 25,
+        chart: 'mostPopular',
+      },
+    });
+    return data.items;
+  }
+
+  async #searchByKeyword(keyword) {
+    const { data } = await this.httpClient.get('/search', {
+      params: {
+        part: 'snippet',
+        maxResults: 25,
+        type: 'video',
+        q: keyword,
+      },
+    });
+    return data.items.map(item => ({ ...item, id: item.id.videoId }));
+  }
+
+  async search(keyword) {
+    return keyword ? this.#searchByKeyword(keyword) : this.#mostPopular();
+  }
 }
