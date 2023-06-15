@@ -10,7 +10,7 @@ export default function ChannelInfo({ id, name }) {
   });
 
   return (
-    <div className='flex items-center'>
+    <div className='flex items-center my-4 mb-8'>
       <img className='w-10 rounded-full mr-2' src={url} alt={name} />
       <p className='text-lg'>{name}</p>
     </div>

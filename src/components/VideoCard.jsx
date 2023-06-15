@@ -2,7 +2,7 @@ import React from 'react';
 import { formatAgo } from '../util/date';
 import { useNavigate } from 'react-router-dom';
 
-export default function VideoCard({ video }) {
+export default function VideoCard({ video, type }) {
   const navigate = useNavigate();
   const {
     title,
@@ -15,10 +15,11 @@ export default function VideoCard({ video }) {
   const handleClick = () => {
     navigate(`/videos/watch/${video.id}`, { state: { video } });
   };
+  const isList = type === 'list';
 
   return (
-    <li onClick={handleClick}>
-      <img className='w-full' src={url} alt={title} />
+    <li className={isList ? 'flex gap-1 m-2' : ''} onClick={handleClick}>
+      <img className={isList ? 'mr-2 w-60' : 'w-full'} src={url} alt={title} />
       <div>
         <p className='my-2 font-semibold line-clamp-2'>{title}</p>
         <p className='text-sm'>{channelTitle}</p>

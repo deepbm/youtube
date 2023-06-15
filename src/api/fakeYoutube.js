@@ -21,4 +21,9 @@ export default class FakeYoutube {
     const { data } = await axios.get('/data/channel.json');
     return data.items[0].snippet.thumbnails.default.url;
   }
+
+  async relatedVideos() {
+    const { data } = await axios.get('/data/related.json');
+    return data.items.map(item => ({ ...item, id: item.id.videoId }));
+  }
 }
