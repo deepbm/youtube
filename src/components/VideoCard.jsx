@@ -1,6 +1,7 @@
 import React from 'react';
 import { formatAgo } from '../util/date';
 import { useNavigate } from 'react-router-dom';
+import { useDarkMode } from '../contexts/DarkMode';
 
 export default function VideoCard({ video, type }) {
   const navigate = useNavigate();
@@ -12,6 +13,7 @@ export default function VideoCard({ video, type }) {
       medium: { url },
     },
   } = video.snippet;
+  const { mode } = useDarkMode();
   const handleClick = () => {
     navigate(`/videos/watch/${video.id}`, { state: { video } });
   };
@@ -20,7 +22,7 @@ export default function VideoCard({ video, type }) {
   return (
     <li className={isList ? 'flex gap-1 m-2' : ''} onClick={handleClick}>
       <img className={isList ? 'mr-2 w-60' : 'w-full'} src={url} alt={title} />
-      <div>
+      <div className={`${!mode && 'text-dark'}`}>
         <p className='my-2 font-semibold line-clamp-2'>{title}</p>
         <p className='text-sm'>{channelTitle}</p>
         <p className='text-sm'>{formatAgo(publishedAt)}</p>

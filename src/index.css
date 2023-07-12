@@ -9,7 +9,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   @apply flex flex-col items-center;
-  @apply bg-zinc-900 text-gray-50;
+  @apply bg-white text-gray-50;
 }
 
 code {
@@ -18,4 +18,8 @@ code {
 
 #root {
   @apply w-full max-w-screen-2xl;
+}
+
+.theme-dark {
+  @apply bg-dark;
 }
