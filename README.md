@@ -26,14 +26,19 @@ https://deepbm.github.io/youtube/ 주소로 확인할 수 있습니다.
 ## Application screen shots:
 
 1. 메인페이지
-![메인화면](https://github.com/deepbm/youtube/assets/82020586/4d89d147-f6df-42cc-a1c3-4a82fe3239f4)
+![메인화면](https://github.com/deepbm/youtube/assets/82020586/4d8e7744-5e44-40a5-b39a-60aa0e8f6afb)
 
 2. 메인페이지 (다크)
-![메인페이지 다크](https://github.com/deepbm/youtube/assets/82020586/1d646563-2fcc-49fb-85d7-6937164d225a)
+![메인페이지 다크](https://github.com/deepbm/youtube/assets/82020586/a5f4e5fb-da6f-48ca-9101-4ac6ffda2a50)
 
-3. 상세페이지
-![상세화면](https://github.com/deepbm/youtube/assets/82020586/390fe304-f549-4acf-8ec0-485f35fb7abc)
+3. 검색
+![검색](https://github.com/deepbm/youtube/assets/82020586/8308c0ea-d248-4f78-992d-51df57c14844)
 
-4. 상세페이지 (다크)
-![상세페이지 다크](https://github.com/deepbm/youtube/assets/82020586/34786c24-a29e-4bfd-8212-66b730f529ea)
-   
+4. 상세페이지
+![상세화면](https://github.com/deepbm/youtube/assets/82020586/1e0c5a73-78ab-42c5-ad6a-000c166c3216)
+
+5. 상세페이지 (다크)
+![상세페이지 다크](https://github.com/deepbm/youtube/assets/82020586/767d0d61-da0c-4877-8d32-0365c6772d56)
+
+6. 오류 페이지
+![오류페이지](https://github.com/deepbm/youtube/assets/82020586/06a3ef99-057e-44a0-b104-de146fe610de)
