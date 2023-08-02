@@ -20,7 +20,10 @@ export default function VideoCard({ video, type }) {
   const isList = type === 'list';
 
   return (
-    <li className={isList ? 'flex gap-1 m-2' : ''} onClick={handleClick}>
+    <li
+      className={isList ? 'flex gap-1 mx-2 mt-0 mb-4 cursor-pointer' : 'cursor-pointer'}
+      onClick={handleClick}
+    >
       <img className={isList ? 'mr-2 w-60' : 'w-full'} src={url} alt={title} />
       <div className={`${!mode && 'text-dark'}`}>
         <p className='my-2 font-semibold line-clamp-2'>{title}</p>

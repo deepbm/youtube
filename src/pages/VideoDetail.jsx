@@ -12,7 +12,7 @@ export default function VideoDetail() {
   const { mode } = useDarkMode();
 
   return (
-    <section className='flex flex-col lg:flex-row'>
+    <section className='flex flex-col lg:flex-row gap-8'>
       <article className='basis-4/6'>
         <iframe
           id='player'
@@ -25,7 +25,7 @@ export default function VideoDetail() {
         <div className={`p-8 ${!mode && 'text-dark'}`}>
           <p className='text-xl font-bold'>{title}</p>
           <ChannelInfo id={channelId} name={channelTitle} />
-          <pre className='whitespace-pre-wrap'>{description}</pre>
+          <pre className='border-t pt-4 whitespace-pre-wrap text-sm'>{description}</pre>
         </div>
       </article>
       <section className='basis-2/6'>
