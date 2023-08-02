@@ -25,7 +25,11 @@ export default function VideoDetail() {
         <div className={`p-8 ${!mode && 'text-dark'}`}>
           <p className='text-xl font-bold'>{title}</p>
           <ChannelInfo id={channelId} name={channelTitle} />
-          <pre className='border-t pt-4 whitespace-pre-wrap text-sm'>{description}</pre>
+          <pre
+            className={`border-t pt-4 whitespace-pre-wrap text-sm ${!mode || 'border-zinc-700'}`}
+          >
+            {description}
+          </pre>
         </div>
       </article>
       <section className='basis-2/6'>
